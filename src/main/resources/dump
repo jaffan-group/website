@@ -1,0 +1,1401 @@
+<html lang="en" xmlns:sys="javascript:Sys" xmlns:dataview="javascript:Sys.UI.DataView" xmlns:content="javascript:ExoWeb.UI.Content" xmlns:toggle="javascript:ExoWeb.UI.Toggle" xmlns:template="javascript:ExoWeb.UI.Template"><head><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/qc5B-qjP0QEimFYUxcpWJy5B/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-EauiKN7dy30bq/wDo7lcvebLQr7wwQPtEV6A1G43RAWnhPwxWZFCCTOT/hE+ffe3"></script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script><script type="text/javascript" src="https://www.cognitoforms.com/include/optional?modules=cognito-datepicker|cognito-timepicker|cognito-typeahead|cognito-toggle|jquery-placeholder[IE&lt;10]|cognito-messaging|cognito-scrollintoview|jquery.maskedinput|cognito-nobots|fileupload|jquery.color|embed-seamless&amp;cachehash=-1560630542"></script><link type="text/css" rel="stylesheet" href="https://www.cognitoforms.com/include/requiredcss/-1560630542"><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" crossorigin="anonymous" src="https://www.cognitoforms.com/include/req/-1560630542"></script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Cocoa, Egg, Dairy, Chocolate, Bakery, Milk, Starch, Jaffan, Trading, Middle East, Flavors, Stabalizers, Antioxidents,  ">
+    <meta name="author" content="Hilal Jaffan">
+
+    <title>Jaffan Trading &amp; Marketing</title>
+
+    <!--Shortcut icon-->
+    <link rel="shortcut icon" type="image/x-icon" href="img/logos/JAFFAN_Logo.png">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css">
+
+    <!-- Theme CSS -->
+    <link href="css/agency.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<script async="" src="https://call.chatra.io/chatra.js"></script><style>@-webkit-keyframes chatra-chat-appear-from-bottom{from{opacity:0;-webkit-transform:translateY(20px) scale(.97);transform:translateY(20px) scale(.97)}to{opacity:1;-webkit-transform:translateY(0) scale(1);transform:translateY(0) scale(1)}}@keyframes chatra-chat-appear-from-bottom{from{opacity:0;-webkit-transform:translateY(20px) scale(.97);transform:translateY(20px) scale(.97)}to{opacity:1;-webkit-transform:translateY(0) scale(1);transform:translateY(0) scale(1)}}@-webkit-keyframes chatra-chat-appear-from-top{from{opacity:0;-webkit-transform:translateY(-20px) scale(.97);transform:translateY(-20px) scale(.97)}to{opacity:1;-webkit-transform:translateY(0) scale(1);transform:translateY(0) scale(1)}}@keyframes chatra-chat-appear-from-top{from{opacity:0;-webkit-transform:translateY(-20px) scale(.97);transform:translateY(-20px) scale(.97)}to{opacity:1;-webkit-transform:translateY(0) scale(1);transform:translateY(0) scale(1)}}@-webkit-keyframes chatra-chat-appear{from{opacity:0;-webkit-transform:scale(.95);transform:scale(.95)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes chatra-chat-appear{from{opacity:0;-webkit-transform:scale(.95);transform:scale(.95)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes chatra-round-button-appear{from{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes chatra-round-button-appear{from{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes chatra-tab-button-appear{from{opacity:0;-webkit-transform:scale(.9);transform:scale(.9)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes chatra-tab-button-appear{from{opacity:0;-webkit-transform:scale(.9);transform:scale(.9)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes chatra-transparent-appear{from{opacity:0}to{opacity:1}}@keyframes chatra-transparent-appear{from{opacity:0}to{opacity:1}}html.chatra-mobile-widget-expanded,body.chatra-mobile-widget-expanded{overflow:hidden !important;height:100% !important;width:100% !important;position:fixed !important;margin:0 !important;top:0 !important;left:0 !important}#chatra{visibility:hidden;opacity:0;position:fixed;max-height:calc(100% - 40px);max-width:calc(100% - 40px);-webkit-transition:.2s linear;transition:.2s linear;-webkit-transition-property:visibility,opacity;transition-property:visibility,opacity;-webkit-backface-visibility:hidden;backface-visibility:hidden;width:auto;height:auto;min-height:0;min-width:0;display:block;-webkit-box-sizing:content-box;box-sizing:content-box;padding:0;margin:0;}@media print{#chatra{display:none}}#chatra__iframe-wrapper,#chatra__iframe{left:0 !important;top:0 !important;height:100% !important;width:100% !important;min-width:100% !important;max-width:100% !important;min-height:100% !important;max-height:100% !important;margin:0 !important;padding:0 !important;display:block !important;background:transparent !important;opacity:1 !important;-webkit-transform:none !important;transform:none !important}#chatra__iframe-wrapper{position:absolute;-webkit-box-shadow:0 0 3px rgba(0,0,0,0.1),0 0 10px rgba(0,0,0,0.3);box-shadow:0 0 3px rgba(0,0,0,0.1),0 0 10px rgba(0,0,0,0.3);overflow:hidden !important}#chatra #chatra__iframe-wrapper,#chatra.chatra--safari #chatra__iframe,#chatra.chatra--webkit.chatra--expanded #chatra__iframe{border-radius:12px}#chatra.chatra--mobile-widget:not(.chatra--expanded),#chatra.chatra--mobile-widget:not(.chatra--expanded) *{cursor:pointer}#chatra.chatra--safari #chatra__iframe,#chatra.chatra--webkit.chatra--expanded #chatra__iframe{-webkit-mask-image:-webkit-gradient(linear,left top, left bottom,from(#000),to(#000));-webkit-mask-image:linear-gradient(#000,#000);mask-image:-webkit-gradient(linear,left top, left bottom,from(#000),to(#000));mask-image:linear-gradient(#000,#000);-webkit-mask-position:50% 50%;mask-position:50% 50%;-webkit-mask-size:100% 100%;mask-size:100% 100%;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat}#chatra:not(.chatra--expanded) #chatra__iframe-wrapper{-webkit-transition:.2s linear;transition:.2s linear;-webkit-transition-property:-webkit-box-shadow;transition-property:-webkit-box-shadow;transition-property:box-shadow;transition-property:box-shadow, -webkit-box-shadow}#chatra:not(.chatra--expanded):hover #chatra__iframe-wrapper{-webkit-box-shadow:0 0 3px rgba(0,0,0,0.1),0 0 15px rgba(0,0,0,0.4);box-shadow:0 0 3px rgba(0,0,0,0.1),0 0 15px rgba(0,0,0,0.4)}#chatra.chatra--visible{visibility:visible;opacity:1}#chatra.chatra--animating{-webkit-transition:350ms cubic-bezier(.25,.1,0,1);transition:350ms cubic-bezier(.25,.1,0,1);-webkit-transition-property:height,width,max-width,max-height,top,bottom,left,right,-webkit-transform;transition-property:height,width,max-width,max-height,top,bottom,left,right,-webkit-transform;transition-property:height,width,max-width,max-height,top,bottom,left,right,transform;transition-property:height,width,max-width,max-height,top,bottom,left,right,transform,-webkit-transform}#chatra.chatra--style-round:not(.chatra--expanded) #chatra__iframe-wrapper,#chatra.chatra--style-round.chatra--safari:not(.chatra--expanded) #chatra__iframe{border-radius:50%}#chatra.chatra--fast-toggle.chatra--style-round:not(.chatra--expanded) #chatra__iframe-wrapper{-webkit-animation:chatra-round-button-appear 150ms ease-out 50ms both;animation:chatra-round-button-appear 150ms ease-out 50ms both}#chatra.chatra--fast-toggle.chatra--style-tab:not(.chatra--expanded) #chatra__iframe-wrapper{-webkit-animation:chatra-tab-button-appear 150ms ease-out 50ms both;animation:chatra-tab-button-appear 150ms ease-out 50ms both}#chatra.chatra--fast-toggle.chatra--expanded #chatra__iframe-wrapper{-webkit-animation:chatra-chat-appear 150ms ease-out 50ms both;animation:chatra-chat-appear 150ms ease-out 50ms both}#chatra.chatra--fast-toggle.chatra--transparent #chatra__iframe-wrapper{-webkit-animation-name:chatra-transparent-appear;animation-name:chatra-transparent-appear}#chatra.chatra--fast-toggle.chatra--expanded:not(.chatra--mobile-widget):not(.chatra--transparent) #chatra__iframe-wrapper{-webkit-animation-name:chatra-chat-appear-from-bottom;animation-name:chatra-chat-appear-from-bottom}#chatra.chatra--fast-toggle.chatra--pos-top.chatra--expanded:not(.chatra--mobile-widget):not(.chatra--transparent) #chatra__iframe-wrapper{-webkit-animation-name:chatra-chat-appear-from-top;animation-name:chatra-chat-appear-from-top}#chatra.chatra--expanded #chatra__iframe-wrapper{-webkit-box-shadow:0 0 3px rgba(0,0,0,0.1),0 5px 50px rgba(0,0,0,0.2);box-shadow:0 0 3px rgba(0,0,0,0.1),0 5px 50px rgba(0,0,0,0.2)}#chatra.chatra--side-bottom{bottom:20px}#chatra.chatra--side-left{left:20px}#chatra.chatra--side-left.chatra--style-tab:not(.chatra--expanded){left:10px}#chatra.chatra--side-right{right:20px}#chatra.chatra--side-right.chatra--style-tab:not(.chatra--expanded){right:10px}#chatra.chatra--side-left.chatra--expanded{bottom:20px;left:20px}#chatra.chatra--side-right.chatra--expanded{bottom:20px;right:20px}#chatra.chatra--pos-right{right:20px}#chatra.chatra--pos-left{left:20px}#chatra.chatra--pos-center{left:50%}#chatra.chatra--pos-top.chatra--style-tab:not(.chatra--expanded){bottom:100%;margin-bottom:-20px}#chatra.chatra--pos-top.chatra--style-round:not(.chatra--expanded){top:20px}#chatra.chatra--pos-bottom:not(.chatra--expanded){bottom:20px}#chatra.chatra--pos-middle:not(.chatra--expanded){bottom:50%}#chatra.chatra--mobile-widget.chatra--expanded:not(.chatra--transparent){max-width:none;max-height:none;top:0 !important;bottom:0 !important}#chatra.chatra--mobile-widget.chatra--expanded #chatra__iframe-wrapper,#chatra.chatra--safari.chatra--mobile-widget.chatra--expanded #chatra__iframe,#chatra.chatra--webkit.chatra--mobile-widget.chatra--expanded #chatra__iframe{border-radius:.1px}#chatra.chatra--mobile-widget.chatra--expanded.chatra--pos-right:not(.chatra--transparent){right:0}#chatra.chatra--mobile-widget.chatra--expanded.chatra--pos-left:not(.chatra--transparent){left:0}#chatra.chatra--mobile-widget.chatra--expanded.chatra--pos-center:not(.chatra--transparent){left:0}#chatra.chatra--mobile-widget.chatra--expanded.chatra--side-right:not(.chatra--transparent){right:0}#chatra.chatra--mobile-widget.chatra--expanded.chatra--side-left:not(.chatra--transparent){left:0}#chatra.chatra--transparent.chatra--expanded{bottom:10px;}#chatra.chatra--transparent.chatra--expanded #chatra__iframe-wrapper{-webkit-box-shadow:none;box-shadow:none}#chatra.chatra--side-left.chatra--transparent,#chatra.chatra--pos-left.chatra--transparent{left:10px}#chatra.chatra--side-right.chatra--transparent,#chatra.chatra--pos-right.chatra--transparent{right:10px}#chatra.chatra--mobile-widget.chatra--transparent{max-height:300px}#chatra.chatra--bg-white{background:#fff}</style></head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top affix">
+        <div class="container" wfd-id="139">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll" wfd-id="148">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" wfd-id="183">
+                    <span class="sr-only" wfd-id="149">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">JAFFAN Trading &amp; Marketing</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" wfd-id="140">
+                <ul class="nav navbar-nav navbar-right" wfd-id="141">
+                    <li class="hidden" wfd-id="147">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li wfd-id="146" class="">
+                        <a class="page-scroll" href="#services">Services</a>
+                    </li>
+                    <li wfd-id="145" class="">
+                        <a class="page-scroll" href="#portfolio">Products</a>
+                    </li>
+                    <li wfd-id="144" class="">
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <!--<li>
+                        <a class="page-scroll" href="#team">Team</a>
+                    </li> -->
+                    <li wfd-id="143" class="active">
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    <li wfd-id="142">
+                      <!--Booking Software start-->
+                      <a style="float:none;" target="_blank" href="https://my.setmore.com/bookanappointmentv3.do?uniqueKey=6a0b2a89-8ac1-4415-aa75-adb85d86b49f">Book Appointment</a>
+                      <!--Booking Software end-->
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container" wfd-id="135">
+            <div class="intro-text" wfd-id="136">
+                <div class="intro-lead-in" wfd-id="138">
+                  <!-- <img src="img/logos/Jaffan_Logo.png" class="intro-heading" /> -->
+
+                </div>
+                <div class="intro-heading" wfd-id="137">
+                    <img src="img/logos/JAFFAN_Logo.png" style="max-width: 75%" alt="Jaffan Trading &amp; Marketing Logo">
+                    <h1>Your source for an end to end solution</h1>
+                </div>
+                <a href="#services" class="page-scroll btn btn-xl">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Services Section -->
+    <section id="services" wfd-id="124">
+        <div class="container" wfd-id="125">
+            <div class="row" wfd-id="133">
+                <div class="col-lg-12 text-center" wfd-id="134">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">Since 1950 we have prided ourselves in providing our clients with the highest quality in food products, services and machines.</h3>
+                </div>
+            </div>
+            <div class="row text-center" wfd-id="126">
+                <div class="col-md-4" wfd-id="131">
+                    <span class="fa-stack fa-4x" wfd-id="132">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Consulting</h4>
+                    <p class="text-muted">Starting a new project? Needing expert advice? Our vast and diverse experience in the industry provides our clients with valuable advice to ensure new product or project role outs are seemless</p>
+                </div>
+                <div class="col-md-4" wfd-id="129">
+                    <span class="fa-stack fa-4x" wfd-id="130">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Support</h4>
+                    <p class="text-muted">We value the relationship we create with our clients and we always standby our products. Our world class after sales support has provided many of our clients with peace of mind and comfort throughout the year.</p>
+                </div>
+                <div class="col-md-4" wfd-id="127">
+                    <span class="fa-stack fa-4x" wfd-id="128">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-empire fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Innovation</h4>
+                    <p class="text-muted">Since the begining, we have always lead the way in providing the newest and greatest technologies in the industry. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray" wfd-id="82">
+        <div class="container" wfd-id="83">
+            <div class="row" wfd-id="122">
+                <div class="col-lg-12 text-center" wfd-id="123">
+                    <h2 class="section-heading">Products</h2>
+                    <h3 class="section-subheading text-muted">Raw Materials Solutions</h3>
+                </div>
+            </div>
+            <div class="row" wfd-id="84">
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="118">
+                    <a href="#productCocoa" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="120">
+                            <div class="portfolio-hover-content" wfd-id="121">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/cocoa.jpg" class="img-responsive" alt="cocoa product">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="119">
+                        <h4>Cocoa</h4>
+                        <p class="text-muted"><a href="#sampleForm" data-toggle="modal">Request Samples</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="114">
+                    <a href="#productFatsAndOils" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="116">
+                            <div class="portfolio-hover-content" wfd-id="117">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/fatsandoils.jpg" class="img-responsive" alt="fats and oils">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="115">
+                        <h4>Fats &amp; Oils</h4>
+                        <p> </p>
+                        <p class="text-muted"><a href="#sampleForm" data-toggle="modal">Request Samples</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="110">
+                    <a href="#productEmulsifiers" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="112">
+                            <div class="portfolio-hover-content" wfd-id="113">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/emulsifiers.jpeg" class="img-responsive" alt="stablizers and emulsifiers">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="111">
+                        <h4>Emulsifiers / Stabalizers</h4>
+                        <p class="text-muted"><a href="#sampleForm" data-toggle="modal">Request Samples</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="106">
+                    <a href="#productFlavours" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="108">
+                            <div class="portfolio-hover-content" wfd-id="109">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/flavours.jpg" class="img-responsive" alt="flavours or flavors">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="107">
+                        <h4>Flavours</h4>
+                        <p class="text-muted"><a href="#sampleForm" data-toggle="modal">Request Samples</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="102">
+                    <a href="#productDairy" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="104">
+                            <div class="portfolio-hover-content" wfd-id="105">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/dairy.jpg" class="img-responsive" alt="dairy products">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="103">
+                        <h4>Dairy</h4>
+                        <p class="text-muted"><a href="#sampleForm" data-toggle="modal">Request Samples</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="98">
+                    <a href="#productEggs" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="100">
+                            <div class="portfolio-hover-content" wfd-id="101">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/egg.jpg" class="img-responsive" alt="egg products">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="99">
+                        <h4>Eggs</h4>
+                        <p class="text-muted"><a href="#sampleForm" data-toggle="modal">Request Samples</a></p>
+                    </div>
+                </div>
+                <div class="col-lg-12 text-center" wfd-id="97">
+                    <h2 class="section-heading">Machinary</h2>
+                    <h3 class="section-subheading text-muted">Machinery Solutions</h3>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="93">
+                    <a href="#productBakery" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="95">
+                            <div class="portfolio-hover-content" wfd-id="96">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/bakery.jpg" class="img-responsive" alt="bakery machines">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="94">
+                        <h4>Bakery</h4>
+                        <p class="text-muted"><a style="float:none;" target="_blank" href="https://my.setmore.com/bookanappointmentv3.do?uniqueKey=6a0b2a89-8ac1-4415-aa75-adb85d86b49f">Consulation</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="89">
+                    <a href="#productChocolate" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="91">
+                            <div class="portfolio-hover-content" wfd-id="92">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/chocolate.jpg" class="img-responsive" alt="chocoloate machines">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="90">
+                        <h4>Chocolate</h4>
+                        <p class="text-muted"><a style="float:none;" target="_blank" href="https://my.setmore.com/bookanappointmentv3.do?uniqueKey=6a0b2a89-8ac1-4415-aa75-adb85d86b49f">Consulation</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" wfd-id="85">
+                    <a href="#productConfectionary" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover" wfd-id="87">
+                            <div class="portfolio-hover-content" wfd-id="88">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/product/confectionary.jpg" class="img-responsive" alt="confectionary machines">
+                    </a>
+                    <div class="portfolio-caption" wfd-id="86">
+                        <h4>Confectionary</h4>
+                        <p class="text-muted"><a style="float:none;" target="_blank" href="https://my.setmore.com/bookanappointmentv3.do?uniqueKey=6a0b2a89-8ac1-4415-aa75-adb85d86b49f">Consulation</a></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" wfd-id="48">
+        <div class="container" wfd-id="49">
+            <div class="row" wfd-id="80">
+                <div class="col-lg-12 text-center" wfd-id="81">
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">Our Mission: We aim to continue to provide our customers with services that are unique, functional and give value to their end products.</h3>
+                    <h3 class="section-subheading text-muted">Our Passion: We are dedicated to exceeding expectations and it is this creative force which has allowed us to expand around the Middle East. We raise the bar each time we succeed and will always provide our customers and suppliers with creative solutions that cannot be replicated by any other company. </h3>
+                    <h3 class="section-subheading text-muted">Our Approach: We believe every client interaction is an opportunity to deliver a remarkable impression thus we take pride in being trustworthy, reliable and enterprising.</h3>
+                </div>
+            </div>
+            <div class="row" wfd-id="50">
+                <div class="col-lg-12" wfd-id="51">
+                    <ul class="timeline" wfd-id="52">
+                        <li class="timeline-inverted" wfd-id="75">
+                            <div class="timeline-image" wfd-id="79">
+                                <img class="img-circle img-responsive" src="img/about/irvine.png" alt="about image 5">
+                            </div>
+                            <div class="timeline-panel" wfd-id="76">
+                                <div class="timeline-heading" wfd-id="78">
+                                    <h4>2015</h4>
+                                    <h4 class="subheading">Branch in Irvine, CA USA</h4>
+                                </div>
+                                <div class="timeline-body" wfd-id="77">
+                                    <p class="text-muted">To better interact with our global suppliers a branch in Irvine, CA was open.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li wfd-id="70">
+                            <div class="timeline-image" wfd-id="74">
+                                <img class="img-circle img-responsive" src="img/about/jeddah.jpg" alt="about image 4">
+                            </div>
+                            <div class="timeline-panel" wfd-id="71">
+                                <div class="timeline-heading" wfd-id="73">
+                                    <h4>1993</h4>
+                                    <h4 class="subheading">Branch in Jeddah, Saudi Arabia</h4>
+                                </div>
+                                <div class="timeline-body" wfd-id="72">
+                                    <p class="text-muted">Continuing with our drive to innovate, we launch our first website.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted" wfd-id="65">
+                            <div class="timeline-image" wfd-id="69">
+                                <img class="img-circle img-responsive" src="img/about/gcc.png" alt="GCC Countries">
+                            </div>
+                            <div class="timeline-panel" wfd-id="66">
+                                <div class="timeline-heading" wfd-id="68">
+                                    <h4>1959</h4>
+                                    <h4 class="subheading">Jaffan Enters GCC Market</h4>
+                                </div>
+                                <div class="timeline-body" wfd-id="67">
+                                    <p class="text-muted">With the continued growth of the company, we continue to access new markets and aquire new clients.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li wfd-id="60">
+                            <div class="timeline-image" wfd-id="64">
+                                <img class="img-circle img-responsive" src="img/about/beirut.png" alt="Beirut Lebanon">
+                            </div>
+                            <div class="timeline-panel" wfd-id="61">
+                                <div class="timeline-heading" wfd-id="63">
+                                    <h4>1958</h4>
+                                    <h4 class="subheading">Branch in Beirut</h4>
+                                </div>
+                                <div class="timeline-body" wfd-id="62">
+                                    <p class="text-muted">With exploding success, we opened another branch in Lebanon to provide better service for our clients.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted" wfd-id="55">
+                            <div class="timeline-image" wfd-id="59">
+                                <img class="img-circle img-responsive" src="img/about/founder.jpg" alt="Founder image 1">
+                            </div>
+                            <div class="timeline-panel" wfd-id="56">
+                                <div class="timeline-heading" wfd-id="58">
+                                    <h4>1950</h4>
+                                    <h4 class="subheading">Founded by the late Hicham H. Jaffan</h4>
+                                </div>
+                                <div class="timeline-body" wfd-id="57">
+                                    <p class="text-muted">An entrepunure that strived on providing people with high quality products started out the company with one mission; Become the leading provider of high quality raw materials and machinery in the Middle East</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted" wfd-id="53">
+                            <div class="timeline-image" wfd-id="54">
+                                <h4>Be Part
+                                    <br>Of Our
+                                    <br>Story!</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+<!--     <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Amazing Team</h2>
+                    <h3 class="section-subheading text-muted">A family owned and operated business.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/000/230/370/3335cac.jpg" class="img-responsive img-circle" alt="norah jaffan">
+                        <h4>Norah Jaffan</h4>
+                        <p class="text-muted">Lead Marketer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://twitter.com/njaffan"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="https://www.facebook.com/profile.php?id=687110334"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/in/norah-jaffan-0932a341"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="tarif jaffan">
+                        <h4>Tarif Jaffan</h4>
+                        <p class="text-muted">Owner</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://twitter.com/tjaffan"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="https://www.facebook.com/tarif.jaffan"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/in/tarif-jaffan-58055425"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/013/383/115e7a8.png" class="img-responsive img-circle" alt="hilal jaffan">
+                        <h4>Hilal Jaffan</h4>
+                        <p class="text-muted">Lead Developer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://twitter.com/HilalJ007"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="https://www.facebook.com/hjaffan"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/in/hilaljaffan"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted"></p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- Contact Section -->
+    <section id="contact" wfd-id="31">
+        <div class="container" wfd-id="32">
+            <div class="row" wfd-id="46">
+                <div class="col-lg-12 text-center" wfd-id="47">
+                    <h2 class="section-heading">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">Please fill out the form below and a representative will be in contact with you shortly.</h3>
+                </div>
+            </div>
+            <div class="row" wfd-id="33">
+                <div class="col-lg-12" wfd-id="34">
+                    <form name="sentMessage" id="contactForm" novalidate="" wfd-id="35">
+                        <div class="row" wfd-id="36">
+                            <div class="col-md-6" wfd-id="42">
+                                <div class="form-group" wfd-id="45">
+                                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required="" data-validation-required-message="Please enter your name." wfd-id="164">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group" wfd-id="44">
+                                    <input type="email" class="form-control" placeholder="Your Email *" id="email" required="" data-validation-required-message="Please enter your email address." wfd-id="163">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group" wfd-id="43">
+                                    <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required="" data-validation-required-message="Please enter your phone number." wfd-id="162">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6" wfd-id="40">
+                                <div class="form-group" wfd-id="41">
+                                    <textarea class="form-control" placeholder="Your Message *" id="message" required="" data-validation-required-message="Please enter a message." wfd-id="169"></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix" wfd-id="39"></div>
+                            <div class="col-lg-12 text-center" wfd-id="37">
+                                <div id="success" wfd-id="38"></div>
+                                <button type="submit" class="btn btn-xl" wfd-id="182">Send Message</button>
+                            </div>
+                        </div>
+                    <input type="hidden" name="NoBots" id="c-nobots" value="NY1bn97vERPInkL6pRvWe/2z0xlP8L/oEJuXEAoGvWNAmge0qVywqxrvjJSZz0Ffi1uKF91cOFBlGLeaU8r4hg==|d72b47bde5a33f170826c63db09abf33" wfd-id="186"></form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Branches Aside -->
+    <br>
+    <aside class="clients">
+        <div class="container" wfd-id="25">
+            <div class="row" wfd-id="26">
+                <div class="col-md-3 col-sm-6" wfd-id="30">
+                    <h4>Headquarters</h4>
+                    <p>Harika Square , Deebs &amp; Ajami Building</p>
+                    <p>3rd Floor</p>
+                    <p>Damascus, Syria</p>
+                    <a href="tel:00963112210466">Tel: +963-11-221 0466</a>
+                    <p><a href="mailto:info@jaffan.com">E-mail: info@jaffan.com</a></p>
+                </div>
+                <div class="col-md-3 col-sm-6" wfd-id="29">
+                    <h5>Lebanon Branch</h5>
+                    <p>Independant St. Houss building</p>
+                    <p>5th Floor</p>
+                    <p>Beirut, Lebanon</p>
+                    <a href="tel:009613650530">Tel: +961-3-650 530</a>
+                    <p><a href="mailto:info.lb@jaffan.com">E-mail: info.lb@jaffan.com</a></p>
+                </div>
+                <div class="col-md-3 col-sm-6" wfd-id="28">
+                    <h5>Saudi Arabia Branch</h5>
+                    <p>P.O. Box: 136403</p>
+                    <p>Jeddah, Saudi Arabia 21313</p>
+                    <a href="tel:00966503601256">Tel: +966-50- 360 1256</a>
+                    <p><a href="mailto:info.sa@jaffan.com">E-mail: info.sa@jaffan.com</a></p>
+                </div>
+                <div class="col-md-3 col-sm-6" wfd-id="27">
+                    <h5>USA Branch</h5>
+                    <p>14 Agostino</p>
+                    <p>Irvine, CA, USA 92614</p>
+                    <a href="tel:0019493021740">Tel: +1 949-302-1470</a>
+                    <p><a href="mailto:info.us@jaffan.com">E-mail: info.us@jaffan.com</a></p>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <footer>
+        <div class="container" wfd-id="12">
+            <div class="row" wfd-id="13">
+                <div class="col-md-4" wfd-id="23">
+                    <span class="copyright" wfd-id="24">Copyright © Jaffan 2016</span>
+                </div>
+                <div class="col-md-4" wfd-id="18">
+                    <ul class="list-inline social-buttons" wfd-id="19">
+                        <li wfd-id="22"><a href="https://twitter.com/JaffanOriginal"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li wfd-id="21"><a href="https://www.facebook.com/Jaffan"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li wfd-id="20"><a href="https://www.linkedin.com/company/jaffan-trading-&amp;-marketing"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4" wfd-id="14">
+                    <ul class="list-inline quicklinks" wfd-id="15">
+                        <li wfd-id="17"><a href="#">Privacy Policy</a>
+                        </li>
+                        <li wfd-id="16"><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Product Modals -->
+
+    <!-- Cocoa Product -->
+    <div class="portfolio-modal modal fade" id="productCocoa" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="11">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Cocoa</h2>
+                                <p class="item-intro text-muted"></p>
+                                <img class="img-responsive img-centered" src="img/product/cocoa.jpg" alt="cocoa products">
+                                <p>We can provide a wide variaty of premium cocoa products!</p>
+                                <ul style="list-style-type:none;padding:0;">
+                                  <li><strong>Cocoa Powder</strong><a></a></li>
+                                  <li><strong>Cocoa Mass</strong><a></a></li>
+                                  <li><strong>Cocoa Butter</strong><a></a></li>
+                                  <li><strong>Cocoa Liqour</strong><a></a></li>
+                                  <li><strong>Compound Chocolate Blocks</strong><a></a></li>
+                                  <li><strong>Real Chocolate Blocks</strong><a></a></li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="181"><i class="fa fa-times"></i>Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fats And Oils Product -->
+    <div class="portfolio-modal modal fade" id="productFatsAndOils" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="10">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>Fats &amp; Oils</h2>
+                                <p class="item-intro text-muted">We are in a position to supply you with a wide selection of speciality fats to give your product the right taste and the exact properties and eating quality you are looking for.</p>
+                                <img class="img-responsive img-centered" src="img/product/fatsandoils.jpg" alt="fats and oils ">
+                                <p>List of fats which we can supply:</p>
+                                <ul style="list-style-type:none;padding:0;">
+                                    <li><strong>All types of Shortening</strong></li>
+                                    <li><strong>All types of Cream Fats</strong></li>
+                                    <li><strong>All Types of Chcocolate fats</strong></li>
+                                    <li><strong>Coccoa Butter Substitue (CBS)</strong></li>
+                                    <li><strong>Coccoa Butter Replacement (CBR)</strong></li>
+                                    <li><strong>Coccoa Butter Equivilient (CBE)</strong></li>
+                                    <li><strong>All types of Frying oils</strong></li>
+                                </ul>
+                                <p>For more details about the fats &amp; oils we supply, please use the inquiry form and we will get back to you with the information required as soon as possible.</p>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="180"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Emulsifiers Product -->
+    <div class="portfolio-modal modal fade" id="productEmulsifiers" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="9">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Emulsifiers / Stabalizers</h2>
+                                <p class="item-intro text-muted">Market trends are increasingly pushing bakery products to be healthier and more indulgent. With the expertise of our principals and their innovative thinking they can help our customers stay ahead of these trends. Whether the aim is to improve on an existing product in order to maintain the market share or to provide growth opportunities through innovations and new products, we assist our customers in fulfilling consumers needs and expectations.</p>
+                                <img class="img-responsive img-centered" src="img/product/emulsifiers.jpg" alt="stabalizer and emulsifiers">
+                                <p></p>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="179"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flavours Product -->
+    <div class="portfolio-modal modal fade" id="productFlavours" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="8">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Flavours</h2>
+                                <p class="item-intro text-muted">We can supply you most of the flavors in liquid or powder or fkex and depending on your what you request and your product. We provide complete flavor systems putting you in position to follow novelties in the confectionery, bakery and dairy markets.</p>
+                                <img class="img-responsive img-centered" src="img/product/flavours.jpg" alt="flavors or flavours">
+                                <p></p>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="178"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Dairy Products -->
+    <div class="portfolio-modal modal fade" id="productDairy" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="7">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Dairy</h2>
+                                <p class="item-intro text-muted">Our company can supply you with the different type of Milk powder.</p>
+                                <img class="img-responsive img-centered" src="img/product/dairy.jpg" alt="dairy">
+                                <ul style="list-style-type:none;padding:0;">
+                                    <li><strong>Full cream powder</strong></li>
+                                    <li><strong>Skim milk powder</strong></li>
+                                    <li><strong>Butter</strong></li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="177"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Egg Products -->
+    <div class="portfolio-modal modal fade" id="productEggs" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="6">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Eggs</h2>
+                                <p class="item-intro text-muted">Egg products have a broad spectrum of applications in the food industry. They are used as an ingredient in bakery products, confectionery, pasta, soup, meat and dairy products. Our principals have developed individual products that satisfy the specialized and specific requirements of each of these product groups.</p>
+                                <img class="img-responsive img-centered" src="img/product/egg.jpg" alt="egg products">
+                                  <ul style="list-style-type:none;padding:0;">
+                                      <li><strong>Whole egg powder</strong></li>
+                                      <li><strong>Whote egg powder with sugar</strong></li>
+                                      <li><strong>Egg Albumen powder</strong></li>
+                                      <li><strong>Egg Yolk powder</strong></li>
+                                  </ul>
+                                <p></p>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="176"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bakery Products -->
+    <div class="portfolio-modal modal fade" id="productBakery" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="5">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Bakery Machines</h2>
+                                <p class="item-intro text-muted">If you are considering bakery production or any other unique products then please talk to us. There was a reason we were one of the first companies to supply this field of business. We have a lot of experience in this field and can suggest many solutions that take into account the type of biscuit or product you want to manufacture. </p>
+                                <img class="img-responsive img-centered" src="img/product/bakery.jpg" alt="bakery machines">
+                                <h4>Proccessing Line</h4>
+                                <ul style="list-style-type:none;padding:0;">
+                                    <li><strong>Biscuits machines</strong></li>
+                                    <li><strong>Encrusting machines</strong></li>
+                                    <li><strong>Mixing machines</strong></li>
+                                </ul>
+                                <h4>Wrapping Machines</h4>
+                                <ul style="list-style-type:none;padding:0;">
+                                    <li><strong>Flow pack machines</strong></li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="175"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chocolate Products -->
+    <div class="portfolio-modal modal fade" id="productChocolate" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="4">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Chocolate Machines</h2>
+                                <p class="item-intro text-muted">We have an extensive expertise in chocolate kitchens. We can provide you with innovative production solutions for chocolate bars, filled chocolates, praline chocolates and many more different types of chocolates. We can help you expand your product line with our expertise, innovative ideas and cutting edge equipment.</p>
+                                <img class="img-responsive img-centered" src="img/product/chocolate.jpg" alt="chocolate machines">
+                                <h4>Proccessing Line</h4>
+                                <ul style="list-style-type:none;padding:0;">
+                                    <li><strong>Whole egg powder</strong></li>
+                                    <li><strong>Whole egg powder with sugar</strong></li>
+                                    <li><strong>Whey powder</strong></li>
+                                    <li><strong>Egg Albumen powder</strong></li>
+                                    <li><strong>Egg Yolk powder</strong></li>
+                                </ul>
+                                <h4>Wrapping Machines</h4>
+                                <ul style="list-style-type:none;padding:0;">
+                                    <li><strong>Whole egg powder</strong></li>
+                                    <li><strong>Whote egg powder with sugar</strong></li>
+                                    <li><strong>Egg Albumen powder</strong></li>
+                                    <li><strong>Egg Yolk powder</strong></li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="174"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confectionary Products -->
+    <div class="portfolio-modal modal fade" id="productConfectionary" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="3">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>Confectionary Machines</h2>
+                                <p class="item-intro text-muted">We are able to offer you a wide range of fully automatic gum equipment starting with MIXERS for gum base, EXTRUDERS for producing solid or hollow ropes, cooling systems, roller type forming machines for ball and cylindrical shapes, and cut &amp; wrap machines.
+                                Production rates range from 500 to 2000+ pounds per hour.</p>
+                                <img class="img-responsive img-centered" src="img/product/confectionary.jpg" alt="confectionary machines">
+                                <h4>Proccessing Line</h4>
+                                <ul style="list-style-type:none;padding:0;">
+                                  <li><strong>Chewing gum lines</strong></li>
+                                  <li><strong>Lolipop machines</strong></li>
+                                  <li><strong>Nougat cookers</strong></li>
+                                  <li><strong>Processing &amp; cooking lines</strong></li>
+                                </ul>
+                                <h4>Wrapping Machines</h4>
+                                <ul style="list-style-type:none;padding:0;">
+                                  <li><strong>Bagging machine</strong></li>
+                                  <li><strong>Single &amp; double twist</strong></li>
+                                  <li><strong>Stick wrapping machines</strong></li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="173"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sample Form -->
+    <div class="portfolio-modal modal fade" id="sampleForm" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="2">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <div class="cognito c-safari c-sml">
+                                    <script src="https://services.cognitoforms.com/s/wS_G94BcLkyoExe8MCLpog"></script>
+                                    <script>Cognito.load("forms", { id: "2" });</script>
+
+<style>/*!
+	core.css
+*/
+.cognito .c-label{padding:0 8px 2px 8px}.cognito .c-label p{display:inline}.cognito .c-editor{padding-right:7px;padding-left:8px;position:relative}.cognito .c-title{padding:0 8px}.cognito .c-repeating-section-container{margin:0 8px;padding:8px 0}.cognito .c-repeating-section-add .c-add-item{margin:8px 8px 8px}.cognito .c-field{padding:8px 0}.cognito .c-rating-scale{padding:8px}.cognito label[for],.cognito input[type=radio],.cognito input[type=checkbox]{cursor:pointer}.cognito input[type=checkbox],.cognito input[type=radio]{width:1em;height:1em;padding:0;margin:0 .3em 0 0;font-size:100%}.cognito{overflow:visible;line-height:normal}.cognito form{margin:0}.cognito a{cursor:pointer}.cognito a:hover{text-decoration:underline}.cognito .c-forms-form{outline:none}.cognito i:hover,.cognito a:hover i{text-decoration:none}.cognito input[type=text],.cognito input[type=password],.cognito input[type=email],.cognito input[type=tel],.cognito input[type=url],.cognito textarea,.cognito .c-dropdown{display:block;width:100%;margin:0;font-family:Arial,'Helvetica LT Std',sans-serif;font-size:100%}.cognito button,.cognito input[type=button]{font-size:100%;cursor:pointer}.cognito ::-webkit-input-placeholder{color:#ccc}.cognito ::-moz-placeholder{color:#999}.cognito :-ms-input-placeholder{color:#ccc!important}.cognito input:-moz-placeholder{color:#999}.cognito .c-placeholder{color:#ccc}.cognito select option[value=""]{color:#ccc}.cognito .c-placeholder-text-styled,.cognito .c-placeholder-text-styled select{color:#ccc}.cognito ul{list-style-type:none}.cognito input[type=text],.cognito input[type=password],.cognito input[type=email],.cognito input[type=tel],.cognito input[type=url],.cognito select,.cognito textarea,.c-payment .c-payment-field{border:1px solid #ccc;padding:5px;-webkit-appearance:none;border-radius:0}.cognito select{font-size:100%;background-color:#fff}.cognito input[type=file]{border:1px solid #ccc;margin-top:5px}.cognito h3 a{font-size:inherit}.cognito small{display:block;margin-top:3px;font-size:75%;color:rgba(0,0,0,.5);line-height:100%}.cognito legend{border:0}.cognito .c-cancel{background-color:rgba(153,153,153,1)!important}.cognito .c-editor label{cursor:pointer}.cognito .c-helptext{font-size:.9em}.cognito .c-validation-message{color:#fff;text-decoration:underline}.cognito .c-submit-error .c-validation{border-radius:4px;padding:5px}.cognito INPUT[type=text],.cognito INPUT[type=password],.cognito INPUT[type=email],.cognito INPUT[type=tel],.cognito INPUT[type=url],.cognito textarea,.cognito select{height:auto}.cognito :not(.c-question)>.c-label{font-weight:700;font-size:100%;line-height:100%}.cognito .c-field.c-required .c-label:after,.cognito .c-rating-scale.c-required .c-choice-question:after{font-weight:bold;color:#8b0000;font-style:normal}.cognito .c-repeating-section-add .c-add-item{border-width:1px;border-style:solid;line-height:100%;border-radius:4px;padding:.5em;margin-top:8px}.cognito .c-button{border-width:1px;line-height:100%;border-radius:2px;border-style:solid}.cognito .c-rating-scale table{width:100%;border-spacing:0;border:0!important;background-color:transparent}.cognito .c-rating-scale .c-validation-row .c-validation{margin:0;font-size:1em}.cognito .c-rating-scale th.c-choice-option-header{text-align:center;font-weight:normal;width:1%;vertical-align:bottom;padding-top:2px}.cognito .c-field.c-text-singleline .c-editor.c-filter-field:after{content:"";color:#444;font-family:"FontAwesome";font-weight:normal;position:absolute;top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%);transform:translateY(-50%);right:10px;padding:6px;pointer-events:all}.cognito .c-field.c-text-singleline .c-editor.c-filter-field input{padding-right:26px}.cognito .c-editor .c-choice-fillin div:not(.printHelper){width:100%;text-indent:-1.6em}.cognito .c-dropdown{position:relative}.cognito .c-dropdown option{color:#444;background-color:#fff;font-family:Arial,Helvetica,sans-serif}.cognito .c-dropdown select{-moz-appearance:none;-webkit-appearance:none;padding-right:20px}.cognito .c-dropdown:after,.c-select-input .chevron::before{content:"";color:#444;font-family:"FontAwesome";font-weight:normal;position:absolute;z-index:2;top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%);transform:translateY(-50%);right:4px;padding:2px;pointer-events:none}.cognito.c-ie .c-dropdown:after{display:none}.cognito.c-ie .c-dropdown select{padding-right:5px}.cognito.c-ie .c-dropdown:after{display:none}.cognito.c-ie .c-dropdown select{padding-right:5px}.cognito .c-html{line-height:1.3em;white-space:normal!important}.cognito .c-html *{white-space:normal!important;margin-top:0;margin-bottom:0}.cognito .c-html *+*{margin-top:1em}.cognito .c-html p:empty+*{margin-top:0}.cognito .c-html address+address{margin-top:0}.cognito .c-html pre{padding:0}.cognito .c-html li{margin-top:.5em}.cognito .c-html em{font-style:italic}.cognito .c-html hr{margin-left:0;margin-right:0}.cognito .c-html ul{list-style-type:disc}.cognito .c-html li+ul,.cognito .c-html li+ol{margin-top:0}.cognito .c-html ol,.cognito .c-html ul{padding-left:1.3em}.cognito .c-html img{max-width:100%;height:auto}.cognito .c-html:not(.mce-content-body) p:empty{display:none}@font-face{font-family:'FontAwesome';src:url('https://www.cognitoforms.com/content/fonts/fontawesome/fontawesome-webfont.eot?v=4.5.0');src:url('https://www.cognitoforms.com/content/fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.5.0') format('embedded-opentype'),url('https://www.cognitoforms.com/content/fonts/fontawesome/fontawesome-webfont.woff?v=4.5.0') format('woff'),url('https://www.cognitoforms.com/content/fonts/fontawesome/fontawesome-webfont.ttf?v=4.5.0') format('truetype'),url('https://www.cognitoforms.com/content/fonts/fontawesome/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular') format('svg'),url('https://www.cognitoforms.com/content/fonts/fontawesome/fontawesome-webfont.woff2?v=4.5.0') format('woff2');font-weight:normal;font-style:normal}.cognito [class^="icon-"],.cognito [class*=" icon-"]{font-family:FontAwesome;font-weight:normal;font-style:normal!important;text-decoration:inherit;-webkit-font-smoothing:antialiased;display:inline;width:auto;height:auto;line-height:normal;vertical-align:baseline;background-image:none;background-position:0% 0%;background-repeat:repeat;margin-top:0}.cognito [class^="icon-"]:before,.cognito[class*=" icon-"]:before{text-decoration:inherit;display:inline-block;speak:none}.cognito a [class^="icon-"],.cognito a [class*=" icon-"]{display:inline-block}.cognito .icon-large:before{vertical-align:-10%;font-size:1.3333333333333333em}.cognito .icon-2x{font-size:2em}.cognito .icon-2x.icon-border{border-width:2px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.cognito .icon-3x{font-size:3em}.cognito .icon-3x.icon-border{border-width:3px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}.cognito .icon-4x{font-size:4em}.cognito .icon-4x.icon-border{border-width:4px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px}.cognito .icon-5x{font-size:4.5em}.cognito .icon-5x.icon-border{border-width:4px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px}.cognito .icon-download-alt:before{content:""}.cognito .icon-credit-card:before{content:""}.cognito .icon-cog:before{content:""}.cognito .icon-plus:before{content:""}.cognito .icon-trash:before{content:""}.cognito .icon-chevron-up:before,.cognito-timepicker-widget .icon-chevron-up:before{content:""}.cognito .icon-chevron-down:before,.cognito-timepicker-widget .icon-chevron-down:before{content:""}.cognito .icon-calendar:before{content:""}.cognito .icon-time:before{content:""}.cognito .icon-remove-sign:before{content:""}.cognito .icon-remove:before{content:""}.cognito .icon-lock:before{content:""}.cognito .icon-map-marker:before{content:""}.cognito .icon-arrow-circle-o-down:before{content:""}.cognito .icon-spin{display:inline-block;-moz-animation:spin 2s infinite linear;-o-animation:spin 2s infinite linear;-webkit-animation:spin 2s infinite linear;animation:spin 2s infinite linear}.cognito .icon-mail:before{content:""}@-moz-keyframes spin{0%{-moz-transform:rotate(0deg)}100%{-moz-transform:rotate(359deg)}}@-webkit-keyframes spin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg)}}@-o-keyframes spin{0%{-o-transform:rotate(0deg);}100%{-o-transform:rotate(359deg);}}@-ms-keyframes spin{0%{-ms-transform:rotate(0deg)}100%{-ms-transform:rotate(359deg)}}@keyframes spin{0%{-moz-transform:rotate(0deg);-ms-transform:rotate(0deg);-o-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-moz-transform:rotate(359deg);-ms-transform:rotate(359deg);-o-transform:rotate(359deg);-webkit-transform:rotate(359deg);transform:rotate(359deg)}}.cognito .c-rating-scale table td,.cognito .c-rating-scale th{padding:10px 5px;border:0;line-height:100%}.cognito .c-signature .c-signature-glyph:after{position:absolute;bottom:35px;left:14px;padding:4px;vertical-align:text-bottom;font-family:FontAwesome;font-weight:normal;content:"";color:#333}.cognito .c-signature .c-editor{color:#333}.cognito .c-signature-present .c-signature-glyph:after{content:"";cursor:pointer}.cognito .c-signature .c-jsignature{cursor:url('data:image/gif;base64,R0lGODlhIAAgAKIFAP//////AMzMzJmZmQAAAP///wAAAAAAACH5BAEAAAUALAAAAAAgACAAAAN0WKrUTivKOQm4GDjK4/vg0zGEEATNqa4nMQzQWDiAEIayZ9mXhVmxnKdHzGiCwtmvYewlF75iE5mMNn9Pj+CaaWQZW67Pm20Mpr3N1/xLq78zV8kmgnsG9Ld99vrsJSB/FXqCUFSFiImKi4yNjo+QkZKTTwkAOw=='),auto}.cognito .c-signature .c-editor>div{border:1px solid #ccc}.cognito .c-fileupload-dropzone-active{border:1px dashed #000}.c-fileupload .c-upload-button button{border-width:1px;border-style:solid}.cognito .c-repeating-section-add .c-add-item:before{content:"";font-family:FontAwesome;font-size:.9em;font-weight:normal;padding-right:3px;vertical-align:middle}.cognito .c-repeating-section-group>div:last-child{border-bottom-width:1px;border-bottom-style:solid}headerLayout
+/*!
+ * Datepicker for Bootstrap
+ *
+ * Copyright 2012 Stefan Petre
+ * Improvements by Andrew Rowls
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ */
+ .cognito-dropdown-menu{background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.2);-webkit-box-shadow:0 5px 10px rgba(0,0,0,.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,.2);box-shadow:0 5px 10px rgba(0,0,0,.2)}.cognito-dropdown-menu .divider{background-color:#e5e5e5;border-bottom:1px solid #fff}.cognito-dropdown-menu>li>a{color:#333}.c-ie .c-forms-form input:focus,.c-ie .c-forms-form textarea:focus,.c-ie .c-forms-form a:focus,.c-ie .c-forms-form button:focus,.c-firefox .c-forms-form [type="text"]:focus,.c-firefox .c-forms-form textarea:focus,.c-firefox .c-forms-form [type="password"]:focus,.c-firefox .c-forms-form [type="email"]:focus,.c-firefox .c-forms-form [type="number"]:focus,.c-edge .c-forms-form select:focus,.c-edge .c-forms-form [type="text"]:focus,.c-edge .c-forms-form textarea:focus,.c-edge .c-forms-form [type="password"]:focus,.c-edge .c-forms-form [type="email"]:focus,.c-edge .c-forms-form [type="number"]:focus{outline-width:1px;outline-style:dotted}.cognito-dropdown-menu>li>a:hover,.cognito-dropdown-menu>li>a:focus,.cognito-dropdown-submenu:hover>a,.cognito-dropdown-submenu:focus>a{text-decoration:none;color:#fff!important;background-color:gray;background-image:linear-gradient(to bottom,#b3b3b3,gray);background-repeat:repeat-x}.cognito-dropdown-menu>.active>a,.cognito-dropdown-menu>.active>a:hover,.cognito-dropdown-menu>.active>a:focus{color:#fff!important;text-decoration:none;outline:0;background-color:gray;background-image:linear-gradient(to bottom,#b3b3b3,gray);background-repeat:repeat-x}.cognito-dropdown-menu>.disabled>a,.cognito-dropdown-menu>.disabled>a:hover,.cognito-dropdown-menu>.disabled>a:focus{color:#999}.cognito-dropdown-menu>.disabled>a:hover,.cognito-dropdown-menu>.disabled>a:focus{text-decoration:none;background-color:transparent;background-image:none}.cognito-datepicker{font-family:Arial,Helvetica,sans-serif;font-size:13px}.cognito-datepicker-dropdown:before{border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:7px solid #ccc;border-top:0;border-bottom-color:rgba(0,0,0,.2)}.cognito-datepicker-dropdown:after{border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:6px solid #fff;border-top:0}.cognito-datepicker-dropdown.cognito-datepicker-orient-bottom:before{border-bottom:0;border-top:7px solid #999}.cognito-datepicker-dropdown.cognito-datepicker-orient-bottom:after{bottom:-6px;border-bottom:0;border-top:6px solid #fff}.cognito-datepicker td,.cognito-datepicker th{border:none;color:#333}.table-striped .datepicker table tr td,.table-striped .datepicker table tr th{background-color:transparent}.cognito-datepicker table tr td.day:hover{background:#eee}.cognito-datepicker table tr td.old,.cognito-datepicker table tr td.new{color:#999}.cognito-datepicker table tr td.disabled,.cognito-datepicker table tr td.disabled:hover{background:none;color:#999}.cognito-datepicker table tr td.today,.cognito-datepicker table tr td.today:hover,.cognito-datepicker table tr td.today.disabled,.cognito-datepicker table tr td.today.disabled:hover{background-color:#fde19a;background-image:linear-gradient(to bottom,#fdd49a,#fdf59a);background-repeat:repeat-x;border-color:#fdf59a #fdf59a #fbed50;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);color:#000}.cognito-datepicker table tr td.today:hover,.cognito-datepicker table tr td.today:hover:hover,.cognito-datepicker table tr td.today.disabled:hover,.cognito-datepicker table tr td.today.disabled:hover:hover,.cognito-datepicker table tr td.today:active,.cognito-datepicker table tr td.today:hover:active,.cognito-datepicker table tr td.today.disabled:active,.cognito-datepicker table tr td.today.disabled:hover:active,.cognito-datepicker table tr td.today.active,.cognito-datepicker table tr td.today:hover.active,.cognito-datepicker table tr td.today.disabled.active,.cognito-datepicker table tr td.today.disabled:hover.active,.cognito-datepicker table tr td.today.disabled,.cognito-datepicker table tr td.today:hover.disabled,.cognito-datepicker table tr td.today.disabled.disabled,.cognito-datepicker table tr td.today.disabled:hover.disabled,.cognito-datepicker table tr td.today[disabled],.cognito-datepicker table tr td.today:hover[disabled],.cognito-datepicker table tr td.today.disabled[disabled],.cognito-datepicker table tr td.today.disabled:hover[disabled]{background-color:#fdf59a}.cognito-datepicker table tr td.today:active,.cognito-datepicker table tr td.today:hover:active,.cognito-datepicker table tr td.today.disabled:active,.cognito-datepicker table tr td.today.disabled:hover:active,.cognito-datepicker table tr td.today.active,.cognito-datepicker table tr td.today:hover.active,.cognito-datepicker table tr td.today.disabled.active,.cognito-datepicker table tr td.today.disabled:hover.active{background-color:#fbf069 \9}.cognito-datepicker table tr td.today:hover:hover{color:#000}.cognito-datepicker table tr td.today.active:hover{color:#fff}.cognito-datepicker table tr td.range,.cognito-datepicker table tr td.range:hover,.cognito-datepicker table tr td.range.disabled,.cognito-datepicker table tr td.range.disabled:hover{background:#eee;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.cognito-datepicker table tr td.range.today,.cognito-datepicker table tr td.range.today:hover,.cognito-datepicker table tr td.range.today.disabled,.cognito-datepicker table tr td.range.today.disabled:hover{background-color:#f3d17a;background-image:linear-gradient(to bottom,#f3c17a,#f3e97a);background-repeat:repeat-x;border-color:#f3e97a #f3e97a #edde34;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.cognito-datepicker table tr td.range.today:hover,.cognito-datepicker table tr td.range.today:hover:hover,.cognito-datepicker table tr td.range.today.disabled:hover,.cognito-datepicker table tr td.range.today.disabled:hover:hover,.cognito-datepicker table tr td.range.today:active,.cognito-datepicker table tr td.range.today:hover:active,.cognito-datepicker table tr td.range.today.disabled:active,.cognito-datepicker table tr td.range.today.disabled:hover:active,.cognito-datepicker table tr td.range.today.active,.cognito-datepicker table tr td.range.today:hover.active,.cognito-datepicker table tr td.range.today.disabled.active,.cognito-datepicker table tr td.range.today.disabled:hover.active,.cognito-datepicker table tr td.range.today.disabled,.cognito-datepicker table tr td.range.today:hover.disabled,.cognito-datepicker table tr td.range.today.disabled.disabled,.cognito-datepicker table tr td.range.today.disabled:hover.disabled,.cognito-datepicker table tr td.range.today[disabled],.cognito-datepicker table tr td.range.today:hover[disabled],.cognito-datepicker table tr td.range.today.disabled[disabled],.cognito-datepicker table tr td.range.today.disabled:hover[disabled]{background-color:#f3e97a}.cognito-datepicker table tr td.range.today:active,.cognito-datepicker table tr td.range.today:hover:active,.cognito-datepicker table tr td.range.today.disabled:active,.cognito-datepicker table tr td.range.today.disabled:hover:active,.cognito-datepicker table tr td.range.today.active,.cognito-datepicker table tr td.range.today:hover.active,.cognito-datepicker table tr td.range.today.disabled.active,.cognito-datepicker table tr td.range.today.disabled:hover.active{background-color:#efe24b \9}.cognito-datepicker table tr td.selected,.cognito-datepicker table tr td.selected:hover,.cognito-datepicker table tr td.selected.disabled,.cognito-datepicker table tr td.selected.disabled:hover{background-color:#9e9e9e;background-image:linear-gradient(to bottom,#b3b3b3,gray);background-repeat:repeat-x;border-color:gray gray #595959;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,.25)}.cognito-datepicker table tr td.selected:hover,.cognito-datepicker table tr td.selected:hover:hover,.cognito-datepicker table tr td.selected.disabled:hover,.cognito-datepicker table tr td.selected.disabled:hover:hover,.cognito-datepicker table tr td.selected:active,.cognito-datepicker table tr td.selected:hover:active,.cognito-datepicker table tr td.selected.disabled:active,.cognito-datepicker table tr td.selected.disabled:hover:active,.cognito-datepicker table tr td.selected.active,.cognito-datepicker table tr td.selected:hover.active,.cognito-datepicker table tr td.selected.disabled.active,.cognito-datepicker table tr td.selected.disabled:hover.active,.cognito-datepicker table tr td.selected.disabled,.cognito-datepicker table tr td.selected:hover.disabled,.cognito-datepicker table tr td.selected.disabled.disabled,.cognito-datepicker table tr td.selected.disabled:hover.disabled,.cognito-datepicker table tr td.selected[disabled],.cognito-datepicker table tr td.selected:hover[disabled],.cognito-datepicker table tr td.selected.disabled[disabled],.cognito-datepicker table tr td.selected.disabled:hover[disabled]{background-color:gray}.cognito-datepicker table tr td.selected:active,.cognito-datepicker table tr td.selected:hover:active,.cognito-datepicker table tr td.selected.disabled:active,.cognito-datepicker table tr td.selected.disabled:hover:active,.cognito-datepicker table tr td.selected.active,.cognito-datepicker table tr td.selected:hover.active,.cognito-datepicker table tr td.selected.disabled.active,.cognito-datepicker table tr td.selected.disabled:hover.active{background-color:#666 \9}.cognito-datepicker table tr td.active,.cognito-datepicker table tr td.active:hover,.cognito-datepicker table tr td.active.disabled,.cognito-datepicker table tr td.active.disabled:hover{background-color:#686868;background-image:linear-gradient(to bottom,#919191,#686868);background-repeat:repeat-x;border-color:#686868 #686868 #002a80;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,.25)}.cognito-datepicker table tr td.active:hover,.cognito-datepicker table tr td.active:hover:hover,.cognito-datepicker table tr td.active.disabled:hover,.cognito-datepicker table tr td.active.disabled:hover:hover,.cognito-datepicker table tr td.active:active,.cognito-datepicker table tr td.active:hover:active,.cognito-datepicker table tr td.active.disabled:active,.cognito-datepicker table tr td.active.disabled:hover:active,.cognito-datepicker table tr td.active.active,.cognito-datepicker table tr td.active:hover.active,.cognito-datepicker table tr td.active.disabled.active,.cognito-datepicker table tr td.active.disabled:hover.active,.cognito-datepicker table tr td.active.disabled,.cognito-datepicker table tr td.active:hover.disabled,.cognito-datepicker table tr td.active.disabled.disabled,.cognito-datepicker table tr td.active.disabled:hover.disabled,.cognito-datepicker table tr td.active[disabled],.cognito-datepicker table tr td.active:hover[disabled],.cognito-datepicker table tr td.active.disabled[disabled],.cognito-datepicker table tr td.active.disabled:hover[disabled]{background-color:#686868}.cognito-datepicker table tr td.active:active,.cognito-datepicker table tr td.active:hover:active,.cognito-datepicker table tr td.active.disabled:active,.cognito-datepicker table tr td.active.disabled:hover:active,.cognito-datepicker table tr td.active.active,.cognito-datepicker table tr td.active:hover.active,.cognito-datepicker table tr td.active.disabled.active,.cognito-datepicker table tr td.active.disabled:hover.active{background-color:#039 \9}.cognito-datepicker table tr td span:hover{background:#eee}.cognito-datepicker table tr td span.disabled,.cognito-datepicker table tr td span.disabled:hover{background:none;color:#999}.cognito-datepicker table tr td span.active,.cognito-datepicker table tr td span.active:hover,.cognito-datepicker table tr td span.active.disabled,.cognito-datepicker table tr td span.active.disabled:hover{background-color:#006dcc;background-image:linear-gradient(to bottom,#919191,#686868);background-repeat:repeat-x;border-color:#686868 #686868 #002a80;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,.25)}.cognito-datepicker table tr td span.active:hover,.cognito-datepicker table tr td span.active:hover:hover,.cognito-datepicker table tr td span.active.disabled:hover,.cognito-datepicker table tr td span.active.disabled:hover:hover,.cognito-datepicker table tr td span.active:active,.cognito-datepicker table tr td span.active:hover:active,.cognito-datepicker table tr td span.active.disabled:active,.cognito-datepicker table tr td span.active.disabled:hover:active,.cognito-datepicker table tr td span.active.active,.cognito-datepicker table tr td span.active:hover.active,.cognito-datepicker table tr td span.active.disabled.active,.cognito-datepicker table tr td span.active.disabled:hover.active,.cognito-datepicker table tr td span.active.disabled,.cognito-datepicker table tr td span.active:hover.disabled,.cognito-datepicker table tr td span.active.disabled.disabled,.cognito-datepicker table tr td span.active.disabled:hover.disabled,.cognito-datepicker table tr td span.active[disabled],.cognito-datepicker table tr td span.active:hover[disabled],.cognito-datepicker table tr td span.active.disabled[disabled],.cognito-datepicker table tr td span.active.disabled:hover[disabled]{background-color:#686868}.cognito-datepicker table tr td span.active:active,.cognito-datepicker table tr td span.active:hover:active,.cognito-datepicker table tr td span.active.disabled:active,.cognito-datepicker table tr td span.active.disabled:hover:active,.cognito-datepicker table tr td span.active.active,.cognito-datepicker table tr td span.active:hover.active,.cognito-datepicker table tr td span.active.disabled.active,.cognito-datepicker table tr td span.active.disabled:hover.active{background-color:#039 \9}.cognito-datepicker table tr td span.old,.cognito-datepicker table tr td span.new{color:#999}.cognito-datepicker thead tr:first-child th:hover,.cognito-datepicker tfoot tr th:hover{background:#eee}.cognito-datepicker .cw{font-size:10px}.cognito-datepicker thead tr:first-child th.cw{background-color:transparent}.input-daterange .add-on{font-weight:normal;text-shadow:0 1px 0 #fff;background-color:#eee;border:1px solid #ccc}.c-public-form .cognito:not(.c-sml) .c-forms-form-main{padding:0 20px 8px 20px;min-height:100px}.c-public-form .cognito:not(.c-sml) .c-forms-logo{padding:28px 28px 0 28px}.c-public-form .cognito:not(.c-sml) .c-forms-heading .c-forms-form-title{padding:28px 20px 10px 20px}.cognito.c-sml .c-forms-heading .c-forms-form-title{padding-top:0}.cognito .c-editor{padding-right:7px;padding-left:8px;position:relative}.cognito .c-field .c-label .c-html.c-editor{padding-left:0}.cognito .c-field.c-forms-layout-section>.c-label{padding:0!important}.disable-transitions{transition:none!important}.cognito .c-forms-confirmation{display:none;overflow:auto}.cognito .c-forms-confirmation,.c-forms-form-readonly-public{min-height:300px;padding:0}.cognito .c-forms-form-main{clear:both;margin-top:4px}.cognito .c-forms-heading{overflow:visible}.cognito .c-forms-heading .c-forms-form-title{padding:28px 0 10px 0}.cognito .c-forms-logo{padding:28px 8px 0 8px}.cognito .c-button-section{padding:0 0 20px 0}.cognito .c-forms-confirmation-message{padding:28px 8px 20px 8px}.cognito .c-forms-confirmation-message img{max-width:100%}.cognito div[class^="c-page-page"] .c-button-section{padding:0}.cognito div[class^="c-page-page"] .c-forms-payment{padding:8px 0 0 0}.cognito .c-forms-not-available-message{padding:8px;min-height:200px}.cognito.c-sml .c-forms-form-main,.cognito.c-sml .c-forms-payment{padding:0;margin-bottom:10px}.cognito.c-sml .c-forms-form-title{padding-left:0;padding-right:0}.cognito.c-med .c-forms-form{padding:0}.cognito.c-sml .c-button-section{padding:8px 0 0 0}.cognito.c-sml .c-forms-heading .c-forms-form-title{padding-top:0}.c-forms-form{overflow:visible;line-height:1.3em;position:relative}.c-forms-form-public-readonly{overflow:auto}.c-forms-form-public-readonly .c-forms-payment-order-summary .c-title{padding-left:0}.c-forms-error{padding:0 20px}.cognito .c-forms-template{overflow:visible}.cognito .c-forms-heading h2{padding:5px 8px;margin:0;border-bottom:1px}.cognito .c-forms-heading .c-forms-description{padding:8px}.cognito.c-sml .c-forms-logo{padding:8px}.cognito .c-forms-form-details{clear:both}.c-forms-form-body{overflow:visible}.c-forms-pages{position:relative;overflow:hidden}.cognito .c-page{width:100%;overflow:auto}.cognito .c-progress-section{padding:8px;padding-top:11px;overflow:auto;line-height:normal}.cognito .c-forms-progress ol{counter-reset:mycounter;list-style:none;margin:0;clear:both;padding:0}.cognito .c-forms-progress li{float:left;position:relative;list-style-type:none;margin-bottom:5px}.cognito .c-forms-progress a{text-decoration:none;color:#444}.cognito .c-progress-notext span{font-weight:normal;opacity:1;color:#999;font-size:0;width:0;height:0}.cognito .c-progress-steps ol{position:relative;display:inline-block;padding:0!important}.cognito .c-progress-steps li{padding:0;margin-right:1em;font-weight:bold;opacity:.7}.cognito .c-progress-steps a:before{content:counter(mycounter);counter-increment:mycounter;display:inline-flex;justify-content:center;vertical-align:middle;color:#999;font-size:.8em;width:1.5em;height:1.5em;line-height:1.5em;border-radius:50%;border-width:1px;border-style:solid;background-color:#fff}.cognito .c-progress-steps li a{display:inline-block;font-weight:bold!important}.cognito .c-progress-steps li span{padding-left:.5em;vertical-align:middle}.cognito .c-progress-steps li.c-page-selected{font-weight:bold;opacity:1}.cognito .c-progress-steps.c-progress-notext a:before{font-size:14px;width:25px;height:25px;line-height:25px;top:0}.cognito.c-sml .c-progress-steps span{font-size:0;width:0;height:0}.cognito .c-progress-bar{background:#fff;display:block;padding:0!important;padding-top:20px}.cognito .c-progress-bar li{text-align:center;padding:8px 4px 4px 4px;border-right:1px solid transparent}.cognito .c-progress-bar a:hover{cursor:pointer}.cognito .c-progress-bar a{opacity:.7}.cognito .c-progress-bar li.c-page-selected a{font-weight:bold;opacity:1}.cognito .c-progress-bar a:before{content:"";position:absolute;top:-8px;left:0;width:100%;height:6px;display:block}.cognito .c-progress-bar li.c-page-selected a:after{content:"";position:absolute;top:-3px;left:50%;width:0;height:0;display:block;border:5px solid transparent;margin-left:-5px}.cognito .c-progress-bar.c-progress-notext a{padding:4px}.cognito .c-progress-bar.c-progress-notext li.c-page-selected a:after{display:none}.cognito .c-page-numbering{float:right;margin-top:12px;padding:8px}.cognito.c-sml .c-progress-bar li{margin-bottom:0}.cognito.c-sml .c-progress-bar a{font-size:0;width:0;height:0;display:none}.cognito.c-sml .c-progress-bar li.c-page-selected a:after{display:none}.cognito .c-forms-form .c-save-resume-button-container{float:right;margin:0 8px}.cognito .c-forms-form .c-save-resume-button i{position:absolute;right:.25em;font-size:1em}.cognito #c-save-resume-dialog{position:absolute;bottom:-10px;left:0;right:0;z-index:10050;height:1000px;width:95%;margin:auto;background-color:#fff;visibility:hidden;min-height:275px;max-width:600px}.cognito #c-save-resume-dialog .dialog-contents{position:absolute;left:0;right:0;top:0;min-height:275px;padding:23px 23px 5px 23px}.cognito #c-save-resume-dialog .c-save-resume-title{padding:0 8px;margin-top:14px;line-height:1.2em}.cognito #c-save-resume-dialog .c-save-resume-close{position:absolute;right:1px;top:1px;cursor:pointer;padding:3px 5px}.c-sml #c-save-resume-dialog .c-save-resume-close,.c-smed #c-save-resume-dialog .c-save-resume-close,.c-med #c-save-resume-dialog .c-save-resume-close{top:13px}.cognito #c-save-resume-dialog #c-save-resume-content{padding:0 8px;line-height:1.3em}.cognito #c-save-resume-dialog #c-save-resume-email-link{display:inline-block;width:67px;min-height:27px;vertical-align:middle;margin:0 0 0 5px;padding-left:0;padding-right:0}.cognito #c-save-resume-dialog #c-save-resume-email{display:inline-block;width:calc(100% - 72px);vertical-align:middle}.cognito #c-save-resume-dialog .c-email-sent-message span{position:absolute;left:-9999px;top:31px;z-index:1;width:calc(100% - 62px);height:auto;background-color:#f6fdde;border:1px solid #fff;box-shadow:0 2px 7px rgba(0,0,0,.2);color:#698215!important;opacity:0;padding:15px;transition:opacity 1s,left 0s 1s}.cognito #c-save-resume-dialog .c-email-sent-message span::before{color:#aed136;content:"";font-family:fontawesome;font-size:35px;margin-right:10px;vertical-align:-35%}.cognito.c-iframe #c-modal-overlay{background-color:transparent!important}.cognito.c-iframe #c-save-resume-dialog{box-shadow:0 0 2px 2px #ccc}.cognito #c-save-resume-dialog .c-email-sent-transition .c-save-resume-header .c-save-resume-title{opacity:.3;transition:opacity .5s}.cognito #c-save-resume-dialog .c-email-sent-transition .c-save-resume-body #c-save-resume-content{opacity:.3;transition:opacity .5s}.cognito #c-save-resume-dialog .c-email-sent-transition .c-email-sent-message span{left:31px;opacity:1;transition:opacity .5s}.cognito .c-forms-checkout{border:none;overflow:hidden;width:100%;margin-top:4px}.cognito .c-forms-payment{border:1px solid transparent;margin:0;clear:both;overflow:visible}.cognito .c-forms-payment h2,.cognito .c-forms-payment h3{border-bottom:0}.cognito .c-forms-payment .c-order-noaccount{float:right!important}.cognito .c-forms-payment .c-payment-section,.cognito .c-forms-confirmation .c-payment-section{padding:8px;margin:0}.cognito .c-forms-payment .c-payment-section .c-field{padding-right:5px;padding-left:5px}.cognito .c-forms-payment .c-background-highlight{overflow:auto;margin:0}.cognito .c-forms-payment table,.cognito .c-forms-payment .c-payment-section table{border-width:0;margin:0}.cognito .c-forms-payment .c-payment-section.c-payment-paypal-section .c-col-1{display:none}.cognito .c-forms-payment .c-payment-section.c-payment-paypal-section .c-col-13{width:100%;max-width:none}.cognito .c-payment-section.c-payment-paypal-section .c-order-summary{max-width:none}.cognito .c-order-summary tr td:first-child{width:65%}.cognito .c-order-summary tr td:first-child+td:last-child{width:35%}.cognito .c-forms-payment-order-summary.c-section{float:none!important}.cognito .c-order-summary{width:100%;border-spacing:0;background-color:transparent;float:right;border-width:0}.cognito .c-order-summary td,.cognito .c-payment-section .c-order-summary th{border:none}.cognito .c-order-item>td{text-align:right;padding:6px;min-width:100px;background-color:transparent}.cognito .c-order-item div,.c-order-total div{float:left}.cognito .c-order-item .c-forms-payment-lineitem-amount{font-weight:normal;white-space:nowrap}.cognito .c-order-item.c-line-item>td:first-child{text-align:left}.cognito .c-order-item.c-subtotal{font-weight:bold!important}.cognito .c-forms-payment-lineitem-group td,.cognito td.c-forms-payment-lineitem-group{float:none!important;font-weight:bold;padding:6px}.cognito .c-order-item .c-forms-payment-lineitem-label{text-align:left;font-weight:normal}.cognito .c-order-item .c-forms-payment-lineitem-label.grouped{padding-left:15px}.cognito .c-payment-section-lineitem-variant{font-style:italic}.cognito .c-order-total{font-weight:bold;clear:both}.cognito .c-forms-payment-label{margin:0 5px;padding:0}.cognito .c-forms-payment-order-summary .c-forms-payment-total-amount{font-size:150%;margin:0 8px;padding:10px 5px 0 5px;text-align:right;font-weight:bold!important;line-height:120%}.cognito .c-forms-payment-total-amount,.cognito .c-forms-order-total-amount{font-size:150%;margin:0;padding:10px 5px 0 5px;text-align:right;font-weight:bold!important;line-height:120%}.cognito .c-footer-terms ul{padding-bottom:10px}.cognito .c-order-amount-due{display:table;width:100%;font-weight:bold}.cognito .c-order-amount-due>div{display:table-cell;padding:4px;text-align:right}.cognito .c-order-amount-due>div:first-child{text-align:left}.cognito .c-forms-payment-order-summary .detail{padding:5px 8px;line-height:100%}.cognito .c-forms-payment-order-summary .c-background-highlight{overflow:auto;padding:8px}.cognito .c-forms-payment-subtotal-amount,.cognito .c-forms-payment-fee-amount{white-space:nowrap}.cognito .c-forms-payment.c-not-collecting-payment .c-order-summary{display:none}.cognito .c-forms-payment.c-not-collecting-payment .c-forms-payment-total-amount{display:none}.cognito .c-forms-payment .c-card-on-file-agreement-field{display:none}.cognito .c-forms-payment .c-card-on-file-agreement-field.c-show-card-agreement{display:block}.cognito.c-med .c-forms-payment .c-order-item>td{min-width:initial}.cognito.c-med .c-table .c-payment-account .c-section{padding-left:0!important}.cognito.c-sml .c-table .c-payment-account .c-section{padding-left:0!important}.cognito.c-sml .c-table .c-payment-account,.cognito.c-sml .c-table .c-payment-amountdue,.cognito.c-sml .c-table .c-payment-payamount,.cognito.c-sml .c-table .c-payment-item{display:block;width:100%!important}.cognito.c-sml .c-table .c-payment-amountdue,.cognito.c-sml .c-table .c-payment-account{border-bottom:0!important}.cognito.c-sml .c-table .c-payment-payamount{padding:8px 0}.cognito.c-sml #c-save-resume-dialog{width:100%;max-height:90%}.cognito.c-sml #c-save-resume-dialog #c-save-resume-email-link{width:100%;float:none;margin:0;margin-top:10px}.cognito.c-sml #c-save-resume-dialog #c-save-resume-email{float:none;width:100%;display:inline-block}.cognito.c-sml .c-forms-form .c-save-resume-button-container{float:none}.cognito #c-web-paypal-checkout{display:inline-block}.cognito.c-sml #c-web-paypal-checkout{text-align:center;padding:0;margin-bottom:7px}.cognito.c-sml .c-forms-payment .c-payment-section.c-payment-paypal-section .c-order-item>td{min-width:auto;min-width:initial}.cognito .c-forms-template>.c-section,.cognito .c-forms-form-body>.c-section{float:none!important}.cognito .c-forms-template>.c-section:after,.cognito .c-forms-form-body>.c-section:after{content:"";display:table;clear:both}@media print{.cognito .c-page{display:inline-block}}@media screen and (max-width:800px){#c-forms-container .c-forms-form{margin:0!important;border:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}#c-forms-container{padding-top:0}#c-web-powered-by{margin-top:0}}</style>
+<link rel="stylesheet" href="https://www.cognitoforms.com/include/optionalCss?styles=fileupload&amp;cachehash=-1560630542">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css"><style id="theme">.cognito form:not(.cog-form) { font-size: 16px; }
+.cognito:not(.c-forms-actionBar){ max-width: 800px; margin: 0 auto; }
+.c-public-form .cognito {	max-width: 800px; }
+.cognito .c-forms-form { background-color: #ffffff;}
+.cognito .c-forms-form .c-dropdown select{padding-right:26px;}
+.cognito.c-ie .c-forms-form .c-dropdown select{padding-right:6px;}
+.cognito-background { background-image: ; background-size: cover; background-attachment:fixed; background-repeat: repeat; background-color: #cccccc; }
+
+.cognito .c-forms-form .c-forms-heading {background-color:rgba(0,0,0,0);}
+.cognito .c-forms-form .c-forms-form-title h2 { font-family: 'Open Sans Condensed',Helvetica,sans-serif; font-weight: bold; font-size: 1.5em; color:#000000; line-height:1.15em; }
+.cognito .c-forms-form .c-forms-description{color:#000000;font-family:Arial,Helvetica,sans-serif;font-size:0.8125em;}
+.cognito .c-forms-form .dropdown-menu > li > a {font-family:Arial,Helvetica,sans-serif;font-size:100%;}
+.cognito .c-forms-form .c-helptext{font-family:Arial,Helvetica,sans-serif;color:#000000;font-size:calc(0.8125em * .9);}
+.cognito .c-forms-form h1, .cognito .c-forms-form h2,.cognito .c-forms-form h3, .cognito .c-forms-form h4, .cognito .c-forms-form h5, .cognito .c-forms-form h6{font-family: 'Open Sans Condensed',Helvetica,sans-serif; font-weight: bold; color:#000000;line-height:1.2em;}
+
+.cognito .c-forms-form h1,.cognito .c-forms-form h2,.cognito .c-forms-form h3{font-size: 1.25em;}
+.cognito .c-forms-form h4{font-size: calc(1.25em * .9);}
+.cognito .c-forms-form h5{font-size: calc(1.25em * .9 * .9);}
+.cognito .c-forms-form h6{font-size: calc(1.25em * .9 * .9 * .9);}
+
+.cognito .c-forms-form .c-html h1{font-size: calc(1.25em / 0.813);}
+.cognito .c-forms-form .c-html h2{font-size: calc(1.25em * .9 / 0.813);}
+.cognito .c-forms-form .c-html h3{font-size: calc(1.25em * .9 * .9 / 0.813);}
+.cognito .c-forms-form .c-html h4{font-size: calc(1.25em * .9 * .9 * .9 / 0.813);}
+.cognito .c-forms-form .c-html h5{font-size: calc(1.25em * .9 * .9 * .9 * .9 / 0.813);}
+.cognito .c-forms-form .c-html h6{font-size: calc(1.25em * .9 * .9 * .9 * .9 * .9 / 0.813);}
+
+.cognito .c-forms-form :not(.c-question) > .c-label{ font-family: 'Open Sans Condensed',Helvetica,sans-serif; font-weight: bold; font-size: 0.875em; color:#000000;line-height:1.3em; }
+.cognito .c-forms-form .c-editor-date-icon,.cognito .c-forms-form .c-editor-time-icon, .cognito .c-forms-form .c-remove-item, .cognito .c-forms-form .c-save-resume-close{color:#000000;}
+.cognito .c-forms-form .c-remove-item{ padding-top: .1em; font-size: 100%; }
+.cognito .remove-icon circle{ fill: #274e13; stroke: #234611; }
+.cognito .remove-icon line { stroke: #fff; }
+.cognito .c-forms-form #c-save-resume-email-link{font-size:100%;}
+.cognito .c-forms-form .c-email-sent-message{font-family:Arial,Helvetica,sans-serif;font-size:0.8125em;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) select, .cognito.c-med .c-forms-form .c-table-section.c-responsive select, .cognito.c-lrg .c-forms-form .c-table-section.c-responsive select
+{font-size:1em}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive)>*:not(.c-table-header)>*>*,
+.cognito.c-med .c-forms-form .c-table-section.c-responsive>*:not(.c-table-header)>*>*,
+.cognito.c-lrg .c-forms-form .c-table-section.c-responsive>*:not(.c-table-header)>*>*
+{font-size:0.8125em;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive)>*>*>* .c-editor,
+.cognito.c-med .c-forms-form .c-table-section.c-responsive>*>*>* .c-editor,
+.cognito.c-lrg .c-forms-form .c-table-section.c-responsive>*>*>* .c-editor
+{font-size:1em}
+
+.cognito.c-sml .c-forms-form .c-table.c-table-section.c-responsive .c-repeating-section-group > .c-repeating-section-item{padding-left: calc(2em * 0.813 - 8px)}
+.cognito.c-sml .c-forms-form .c-table.c-table-section.c-responsive .c-repeating-section-group>.c-repeating-section-item .c-repeating-section-item-title{margin-left: calc(-2em * 0.813 + 8px)}
+
+/* Override the indentation for readonly responsive tables */
+.cognito.c-sml .c-forms-form .c-table.c-table-section.c-responsive.c-readonly .c-repeating-section-group > .c-repeating-section-item,
+.cognito.c-sml .c-forms-form [class*="c-readonly"] .c-table.c-table-section.c-responsive .c-repeating-section-group > .c-repeating-section-item{ padding-left: 0 !important; }
+.cognito.c-sml .c-forms-form .c-table.c-table-section.c-responsive.c-readonly .c-repeating-section-group>.c-repeating-section-item .c-repeating-section-item-title,
+.cognito.c-sml .c-forms-form [class*="c-readonly"] .c-table.c-table-section.c-responsive .c-repeating-section-group>.c-repeating-section-item .c-repeating-section-item-title{ margin-left: 0 !important; }
+
+/* Above styles shouldn't apply to readonly table section */
+.cognito.c-sml .c-forms-form .c-section.c-readonly-always .c-table .c-repeating-section-group>.c-repeating-section-item .c-repeating-section-item-title{ margin-left: 0 !important;}
+
+.cognito .c-table-section:not(.c-responsive)+.c-validation, .cognito.c-med .c-table-section.c-responsive+.c-validation, .cognito.c-lrg .c-table-section.c-responsive+.c-validation
+{margin-left: calc(2em / 0.813)}
+
+/* Override previous */
+.cognito .c-readonly-always .c-table.c-table-section+.c-validation
+{margin-left: 11px; }
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive)~.c-repeating-section-add,
+.cognito.c-med .c-forms-form .c-table-section.c-responsive~.c-repeating-section-add,
+.cognito.c-lrg .c-forms-form .c-table-section.c-responsive~.c-repeating-section-add{font-size:0.8125em}
+
+.cognito :not(.c-responsive).c-table-section ~ .c-repeating-section-add .c-add-item, .cognito.c-med .c-table-section.c-responsive ~ .c-repeating-section-add .c-add-item, .cognito.c-lrg .c-table-section.c-responsive ~ .c-repeating-section-add .c-add-item
+{font-size:calc(0.875em / 0.813)}
+
+.cognito .c-forms-form{ background-color: #ffffff; }
+.cognito .c-forms-form .c-rating-scale .c-choice-option .c-label{ font-family:Arial,Helvetica,sans-serif; font-weight: normal; font-size: 0.8125em; color: #000000; }
+.cognito .c-forms-form .c-editor, .cognito .c-forms-form .c-rating-scale-questions{ font-family:Arial,Helvetica,sans-serif; font-weight: normal; font-size: 0.8125em; color: #000000; }
+.cognito .c-forms-form select, .cognito .c-forms-form input[type=text], .cognito .c-forms-form input[type=password], .cognito .c-forms-form input[type=email], .cognito .c-forms-form input[type=tel], .cognito .c-forms-form input[type=url], .cognito .c-forms-form textarea { font-family:Arial,Helvetica,sans-serif; font-weight: normal;}
+.cognito .c-editor .c-choice-option label, .cognito .c-editor label.c-yesno-radio, .cognito .c-editor.c-yesno-checkbox label {font-weight: normal;}
+
+.cognito .c-forms-form input::-webkit-input-placeholder{color: #cccccc;}
+.cognito .c-forms-form input:-ms-input-placeholder {color: #cccccc;}
+.cognito .c-forms-form input::-webkit-input-placeholder {color: #cccccc;}
+.cognito .c-forms-form input:-moz-placeholder {color: #cccccc;}
+.cognito .c-forms-form input::-moz-placeholder {color: #cccccc;}
+.cognito .c-forms-form .c-placeholder-text-styled, .cognito .c-forms-form .c-placeholder-text-styled select {color: #cccccc;}
+.cognito select option[value=""] { color: #cccccc; }
+
+.cognito .c-forms-form textarea::-webkit-input-placeholder{color: #cccccc;}
+.cognito .c-forms-form textarea:-ms-input-placeholder {color: #cccccc;}
+.cognito .c-forms-form textarea::-webkit-input-placeholder {color: #cccccc;}
+.cognito .c-forms-form textarea:-moz-placeholder {color: #cccccc;}
+.cognito .c-forms-form textarea::-moz-placeholder {color: #cccccc;}
+
+.cognito .c-forms-form a{ color: #d85427;font-family: 'Open Sans Condensed',Helvetica,sans-serif; font-weight: normal; }
+
+/* Override link attributes in tables because they look dumb otherwise */
+.cognito .c-table-section:not(.c-responsive) .c-table-body a,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-body a
+{ font-family: Arial,Helvetica,sans-serif; font-weight: normal; font-size: 1em; }
+
+.cognito .c-forms-form .c-fileupload-download i,.cognito .c-forms-form .c-fileupload-delete i{text-decoration:none;color: #000000;}
+.cognito .c-forms-form button:not(.c-icon-button) {padding: .5em 1.25em; }
+.cognito .c-forms-form .c-add-item{padding:.5em;}
+.cognito .c-forms-form button:not(.c-icon-button),.cognito .c-forms-form .c-add-item, .cognito .c-forms-form input[type=button],.cognito .c-forms-form .c-fileupload-dropzone .c-upload-button button { background-color: #274e13; border-color: #234611; color: #fff; font-family: 'Open Sans Condensed',Helvetica,sans-serif; font-weight: normal; font-size: 0.875em;	border-radius:4px; }
+.cognito .c-forms-form .c-fileupload-dropzone .c-upload-button { font-size: inherit;	}
+.cognito .c-forms-form button:not(.c-icon-button):hover, .cognito .c-forms-form input[type=button]:hover,.cognito .c-forms-form .c-add-item:hover, .cognito .c-forms-form .c-fileupload-dropzone .c-upload-button button:hover { background-color: #234611;}
+
+/* Alternating bg color */
+.cognito .c-forms-form .c-repeating-section-group > div:not(.c-table-row):nth-child(odd){background:rgba(0,0,0,0.04);}
+.cognito.c-sml .c-forms-form .c-responsive .c-repeating-section-group > div.c-table-row:nth-child(odd){background:rgba(0,0,0,0.04);}
+.cognito .c-forms-form .c-repeating-section-group > div:last-child{border-bottom-color:rgba(0,0,0,0.04);}
+.cognito .c-forms-form .c-rating-scale tbody:nth-child(even){background:rgba(0,0,0,0.04);}
+
+.c-forms-form-admin-readonly .c-table-body.c-repeating-section-group > div:nth-child(odd) .c-field .c-editor,
+.c-repeating-section-container:not(.c-table-row):nth-child(odd), .c-rating-scale .c-rating-scale-questions > div:nth-child(odd), .c-rating-scale tbody:nth-child(even),
+.cognito .c-table-section:not(.c-responsive).c-readonly .c-table-body .c-table-row:nth-child(odd) .c-editor,
+.cognito .c-table-section:not(.c-responsive) [class*="c-readonly"].c-section .c-table-body .c-table-row:nth-child(odd) .c-editor,
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) .c-table-section.c-readonly .c-table-body .c-table-row:nth-child(odd) .c-editor,
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) [class*="c-readonly"].c-section .c-table-body .c-table-row:nth-child(odd) .c-editor{
+	background: rgba(0,0,0,0.04) !important;
+}
+
+.cognito .c-table-section:not(.c-responsive) [class*="c-readonly"].c-section .c-table-footer .c-field,
+.cognito .c-table-section:not(.c-responsive) .c-table-section.c-readonly .c-table-footer .c-field,
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) [class*="c-readonly"].c-section .c-table-footer .c-field,
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) .c-table-section.c-readonly .c-table-footer .c-field {
+	/* ensure the summary line is visible on light and dark backgrounds on odd-rowed tables */
+	background: linear-gradient(to bottom, rgba(0,0,0,0.04) 0%, rgba(0,0,0,0.04) 3px, transparent 3px,transparent 100%),
+							linear-gradient(to bottom, rgba(0,0,0,0.04) 0%, rgba(0,0,0,0.04) 3px, transparent 3px,transparent 100%);
+}
+
+.cognito .c-forms-form tbody.c-line-item-container{border-bottom-color: rgba(0,0,0,0.25)!important;}
+.cognito .c-forms-form hr {background-color:rgba(0,0,0,0.697);}
+.cognito .c-forms-form .c-background-highlight {background:rgba(0,0,0,0.04);}
+.cognito .c-forms-form .c-text-light {color:rgba(0,0,0,0.697);}
+
+.cognito .c-forms-form .c-progress-bar a:before{background:rgba(0,0,0,0.04);border-color:#ffffff;}
+.cognito .c-forms-form .c-forms-progress li.c-page-selected a:before {background-color: #274e13; color: #fff;border-color: #274e13;}
+.cognito .c-forms-form .c-progress-bar li.c-page-selected a:before {background-color: #274e13;border-color: #274e13;color: #fff;}
+.cognito .c-forms-form .c-progress-bar li.c-page-selected a:after{border-top-color:#274e13;}
+
+.cognito .c-progress-bar.c-progress-notext a:focus { outline: 0; }
+.cognito .c-progress-bar.c-progress-notext a:focus:before { outline: 3px solid rgba(0,0,0,0.1); }
+.cognito .c-forms-form .c-save-resume-button {position: relative; background-color: transparent !important; margin-right: 0; color: #000000;}
+.cognito .c-forms-form .c-number-spinner button{color:#000000;}
+.cognito .c-forms-form .c-save-resume-button:hover {background-color: transparent;}
+
+.cognito .c-forms-form .c-save-resume-button:not(.c-icon-button){color:#000000;}
+.cognito .c-forms-form #c-save-resume-dialog{background-image: ; background-size: cover; background-attachment:fixed; background-repeat: repeat; background-color: #cccccc;}
+.cognito .c-forms-form #c-save-resume-dialog .dialog-contents{background-color: #ffffff;}
+.cognito .c-forms-form #c-modal-overlay{background:rgba(0,0,0,1);}
+
+.cognito .c-forms-form .c-progress-steps a:before{background-color: rgba(0,0,0,0.1);color:#000000;}
+
+.cognito .c-forms-form .c-forms-payment table{padding-top:8px;}
+.cognito .c-forms-form .c-forms-payment-total-amount{font-family:Arial,Helvetica,sans-serif; font-weight: normal; font-size: 1.219em; color: #000000;}
+
+
+.cognito .c-forms-form .c-footer-terms a {color:#000000;}
+.cognito .c-forms-form .c-forms-not-available-message,.cognito .c-forms-form .c-page-numbering, .cognito .c-forms-form .c-forms-confirmation-message, .cognito .c-forms-form #c-save-resume-content,.cognito .c-forms-form .c-progress-section a, .cognito .c-forms-form .c-forms-payment-order-summary .detail, .cognito .c-forms-form .c-web-paypal-processing { font-family:Arial,Helvetica,sans-serif; font-weight: normal; font-size: 0.8125em; color: #000000; }
+.cognito .c-forms-form .c-validation { font-family:Arial,Helvetica,sans-serif; font-weight: normal; font-size: 0.8125em; border-radius: 0 0 4px 4px; line-height: 1.3em; }
+
+.cognito .c-forms-form .c-table-section *.c-error:after  { font-family:Arial,Helvetica,sans-serif; font-weight: normal; }
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive)>*>*>* .c-validation,
+.cognito.c-med .c-forms-form .c-table-section.c-responsive>*>*>* .c-validation,
+.cognito.c-lrg .c-forms-form .c-table-section.c-responsive>*>*>*  .c-validation { font-size:inherit; }
+
+.cognito .c-forms-form .c-forms-payment-lineitem-label,
+.cognito .c-forms-form .c-forms-payment-lineitem-amount { font-weight: normal; }
+
+.cognito .c-forms-form .c-validation,
+.cognito .c-forms-form .c-error:after,
+.cognito .c-forms-form .c-table .c-error .toggle-on:after,
+.cognito .c-forms-form .c-validation-icon { background-color: #b91f1f !important; color:white; }
+
+.cognito .c-forms-form .c-forms-heading { text-align: center }
+.cognito .c-forms-form input[type=text],.cognito .c-forms-form input[type=password],.cognito .c-forms-form input[type=email],.cognito .c-forms-form input[type=tel],.cognito .c-forms-form input[type=url],.cognito .c-forms-form textarea, .cognito .c-forms-form select,.cognito .c-forms-form .c-repeating-section-container,
+.cognito .c-forms-form .c-signature .c-editor>div, .cognito .c-forms-form .has-switch,.cognito.c-payment .c-payment-field
+
+{border-radius:6px;background-color: rgba(0,0,0,0.1);border:1px solid transparent;}
+.cognito .c-forms-form .c-background-highlight{ border-radius:6px; border:1px solid transparent; }
+.cognito .c-forms-form .c-add-item{border-radius:6px;overflow:hidden;}
+.cognito .c-forms-form .c-readonly .c-signature .c-editor>div {border-radius:none;overflow:hidden;background-color: transparent; border:1px solid transparent;}
+.cognito .c-forms-form .c-signature .c-signature-glyph:after{color:#000000;}
+
+.cognito .c-forms-form .c-repeating-section-container{border-radius:8px;}
+.cognito .c-forms-form .c-rating-scale tbody:nth-child(even) .c-choice-question, .cognito .c-forms-form .c-subtotal td:first-child{border-top-left-radius:6px;border-bottom-left-radius:6px;}
+.cognito .c-forms-form .c-rating-scale tbody:nth-child(even) td:last-child,.cognito .c-forms-form .c-subtotal td:last-child{border-top-right-radius:6px;border-bottom-right-radius:6px;}
+
+.cognito .c-forms-form .has-switch > * > *{ padding: 8px !important; line-height: normal; }
+.cognito .c-forms-form input[type=text],.cognito .c-forms-form input[type=password],.cognito .c-forms-form input[type=email],.cognito .c-forms-form input[type=tel],.cognito .c-forms-form input[type=url], .cognito .c-forms-form input[type=password], .cognito .c-forms-form textarea, .cognito .c-forms-form select,.cognito.c-payment .c-payment-field{padding:8px;color: #000000;}
+.cognito .c-forms-form .c-repeating-section-group>div:last-child{border-bottom:0;}
+.cognito .c-forms-form .has-switch,.cognito .c-forms-form .c-fileupload-dropzone .c-upload-button button, .cognito .c-forms-form .has-switch{border-radius:6px;}
+/* putting the checkable element offscreen prevents edge and ie from scrolling to it when focused. */
+.cognito .c-forms-form input[type="checkbox"]:not(:checked),.cognito .c-forms-form input[type="checkbox"]:checked,.cognito .c-forms-form input[type="radio"] {position: absolute; z-index: -1; opacity: 0; transform: scale(0);}
+.cognito .c-forms-form .c-editor .c-choice-option label, .cognito .c-forms-form .c-editor label.c-yesno-radio, .cognito .c-forms-form .c-editor.c-yesno-checkbox label{ padding-left:1.6em;text-indent:-1.6em}
+
+.cognito .c-forms-form input[type="checkbox"] + * { position: relative; cursor: pointer;}
+.cognito .c-forms-form input[type="checkbox"]:not(:checked) + *:before,.cognito .c-forms-form input[type="checkbox"]:checked + *:before { content: ''; display:inline-block; vertical-align:middle;  width: 1em; height: 1em; margin: -1px .4em 1px 1px;  border: 1px solid #aaa;  background: #fff;  border-radius: 4px;  }
+.cognito .c-forms-form input[type="checkbox"]:not(:checked) + *:after,.cognito .c-forms-form input[type="checkbox"]:checked + *:after { font-family: FontAwesome; content: "\f00c"; text-indent: 0; height: 1.2em; width: 1.15em; line-height: 1.2; text-align: center; position: absolute; left: 2px; top:1px;font-size:.9em; color: #666; transition: all .2s;}
+.cognito .c-forms-form input[type="checkbox"]:not(:checked) + *:after {  opacity: 0;  transform: scale(0);}
+.cognito .c-forms-form input[type="checkbox"]:checked + *:after {  opacity: 1;  transform: scale(1);}
+
+.cognito .c-forms-form .c-choice-fillin input[type=checkbox] + *:after { line-height: 1.6; }
+
+.cognito .c-forms-form input[type="checkbox"]:focus + *:before,
+.cognito .c-forms-form input[type="radio"]:focus + *:before { box-shadow: 0 0 1px 1px rgba(0,0,0,.1), inset 0 0 1px 1px rgba(0,0,0,.3); }
+
+.cognito .c-forms-form input[type="radio"] + *:before{ content: ''; width: 1em; height: 1em; display: inline-block; box-shadow: inset 0 0 0 10px #fff; transition: box-shadow 0.4s, color 0.4s;  vertical-align: middle; visibility: visible;  color: white;  line-height: 1em;  margin: -1px .4em 1px 1px; border: 1px solid #aaa;  background: #fff;}
+.cognito .c-forms-form input[type="radio"] + *{position: relative; }
+.cognito .c-forms-form input[type="radio"] + *:before{border-radius: 50%;}
+.cognito .c-forms-form input[type="radio"]:checked + *:before{ background: #666; box-shadow: inset 0 0 0 3px #fff; }
+.cognito .c-forms-form input[type="radio"]:checked:focus + *:before { background: black; box-shadow: 0 0 1px 1px rgba(0,0,0,.3), inset 0 0 0 2px #fff; }
+.cognito .c-forms-form .c-choice-fillin div{padding-left:1.6em;text-indent:-1.6em;}
+.cognito .c-forms-form .c-choice-fillin .c-fillin-text{display:inline-block;vertical-align:top;width:calc(100% - 1px)!important;padding-left:4px;padding-right:4px;}
+
+.cognito .c-forms-form .c-progress-steps li:before{font-size:1em;}
+.cognito .c-forms-form .c-forms-progress li.c-page-selected:before{border-color: #274e13}
+
+.cognito .c-forms-form button:not(.c-icon-button), .cognito .c-forms-form input[type=button], .cognito .c-forms-form .c-fileupload-dropzone .c-upload-button button{padding:0.7rem 1.75rem;}
+.cognito .c-forms-form .c-add-item{padding:0.7rem}
+.cognito .c-forms-form .c-dropdown .c-dropdown-button,.cognito .c-forms-form .c-payment-icon i{color:rgba(0,0,0,.7);}
+.cognito .c-forms-form .c-save-resume-button:not(.c-icon-button){background-color: rgba(0,0,0,0.1);}
+.cognito .c-forms-form .c-progress-bar li:before{height:12px;}
+.cognito .c-forms-form .c-progress-bar li.c-page-selected:after{top:4px;}
+
+.cognito .c-forms-form .c-progress-steps li:before{width:2em;height:2em;line-height:2em;border-width:0;}
+.cognito .c-forms-form .c-repeating-section-container:not(:first-child){margin-top:8px;}
+.cognito .c-forms-form .c-progress-bar li:first-child:before{border-top-left-radius:6px;border-bottom-left-radius:6px;}
+.cognito .c-forms-form .c-progress-bar li:last-child:before{border-top-right-radius:6px;border-bottom-right-radius:6px;}
+
+.cognito .c-forms-form ::-webkit-input-placeholder {color: #cccccc;}
+.cognito .c-forms-form :-ms-input-placeholder {color: #cccccc;}
+.cognito .c-forms-form ::-moz-placeholder {color: #cccccc;  opacity: 1;}
+.cognito .c-forms-form :-moz-placeholder { color: #cccccc;  opacity: 1;}
+
+.cognito.c-payment,.cognito .c-forms-form .c-payment-section .c-background-highlight,{background:transparent;}
+.cognito .c-order-item > td{padding:10px;}
+.cognito .c-forms-form .c-forms-payment .c-payment-section{padding:0;}
+.cognito .c-forms-form .c-forms-payment-total-amount{border-top:1px solid rgba(0,0,0,0.1);padding:10px 0 0 0;margin:0px 8px ;}
+
+.cognito .c-forms-form .c-validation,.cognito.c-payment .c-validation{border-radius:4px;margin-top:2px;}
+.cognito .c-forms-form .c-name .c-validation, .cognito .c-forms-form .c-address .c-validation { top: -6px; }
+.cognito .c-forms-form .c-dropdown:after{color:inherit;right:6px;}
+
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form .c-table-section input[type=text],
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section input[type=password],
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section input[type=email],
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section input[type=tel],
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section input[type=url],
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section textarea,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section select,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-forms-form  .c-table-section .c-dropdown
+{border-radius:0;background-color: transparent;border:none}
+
+.cognito .c-forms-form .c-table-section .c-repeating-section-container{background-color:transparent;}
+
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive:not(.c-readonly)>.c-table-body>*>*
+.cognito.c-ie .c-forms-form :not(.c-responsive).c-table-section .c-repeating-section-group .c-repeating-section-item > * .c-validation,
+.cognito.c-ie:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item > * .c-validation
+{top:calc(1em + 22px)}
+
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item > *:not(.c-readonly) .c-editor
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:not(.c-readonly) .c-editor
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]).c-table-section.c-responsive:not(.c-readonly) .c-repeating-section-group .c-repeating-section-item> [class^=c-calculation-]
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item >.c-repeating-section-item-title,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item >.c-repeating-section-item-title
+{border:none;}
+
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>* .c-editor .c-content
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:nth-last-child(2) .c-editor
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item>*:last-child .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:last-child .c-editor
+{border-radius:0 6px 6px 0;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item> *:nth-child(2),
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item> *:nth-child(2),
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item> *:nth-child(2) .c-editor,
+.cognito.c-med > :not([id="c-forms-publish"]) .c-forms-form .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item> *:nth-child(2) .c-editor,
+.cognito.c-lrg > :not([id="c-forms-publish"]) .c-forms-form .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item> *:nth-child(2) .c-editor
+{border-radius:6px 0 0 6px;}
+
+.cognito:not(.c-sml) .c-forms-form .c-table-section:not(.c-responsive) .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child)
+{border-width:0;}
+
+.cognito:not(.c-sml) .c-forms-form .c-table-section:not(.c-responsive) .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child) .c-editor
+{background-color:rgba(0,0,0,0.1);}
+
+.cognito:not(.c-sml) .c-forms-form [class*="c-readonly"] .c-table-section:not(.c-responsive) .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito.c-med > :not([id="c-forms-publish"]) .c-forms-form [class*="c-readonly"] .c-table-section.c-responsive .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito.c-lrg > :not([id="c-forms-publish"]) .c-forms-form [class*="c-readonly"] .c-table-section.c-responsive .c-table-body.c-repeating-section-group .c-repeating-section-item>*:not(:first-child) .c-editor
+{border-width:0;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item:first-child>*:not(:first-child),
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item:first-child>*:not(:first-child)
+{border-top:1px solid transparent;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item>*:last-child,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:last-child
+{border-radius:0 6px 6px 0;border-right:none;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item>*:nth-last-child(2):first-child + div,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:nth-last-child(2):first-child + div
+{border-radius:6px;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item>*:nth-last-child(2):first-child + div .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:nth-last-child(2):first-child + div .c-editor
+{border-radius:6px;}
+
+.cognito .c-forms-form .c-table-section[class*="c-readonly"]:not(.c-responsive) .c-repeating-section-group.c-table-body .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item .c-readonly
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item [class^=c-calculation-]
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item [class^=c-calculation-] .c-editor
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-readonly.c-responsive .c-repeating-section-group.c-table-body .c-repeating-section-item>*:not(:first-child)
+{background-color:transparent; border:0;}
+
+.cognito .c-forms-form .c-table-section[class*="c-readonly"]:not(.c-responsive) .c-repeating-section-group.c-table-body .c-repeating-section-item>*:last-child .c-editor,
+.cognito.c-med > :not([id="c-forms-publish"]) .c-forms-form .c-table-section[class*="c-readonly"].c-responsive .c-repeating-section-group.c-table-body .c-repeating-section-item>*:last-child .c-editor,
+.cognito.c-lrg > :not([id="c-forms-publish"]) .c-forms-form .c-table-section[class*="c-readonly"].c-responsive .c-repeating-section-group.c-table-body .c-repeating-section-item>*:last-child .c-editor
+{border-right:1px solid rgba(0,0,0,0.1);}
+
+/* non-responsive Table Field input border radius and border */
+.cognito.c-sml .c-table-section:not(.c-responsive) input {
+	border-radius: 0;
+}
+.cognito.c-sml .c-table-section:not(.c-responsive) .c-field:nth-child(2) input {
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+}
+.cognito.c-sml .c-table-section:not(.c-responsive) .c-field:last-child input {
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+.cognito.c-sml .c-table-section:not(.c-responsive) .c-field:not(:first-child):not(:last-child) input {
+	border-right: 1px solid rgba(0,0,0,0.1);
+}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item>*:not(.c-editor-focused) .c-dropdown select,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item>*:not(.c-editor-focused) .c-dropdown select
+{padding-right:8px}
+
+/*
+	Top and bottom must be reduced from 8px otherwise FF cuts off descenders in text.
+	However, no padding makes the FF focus outline, and the IE dropdown chevron look a little strange. Hence 5px.
+	Cf. Rounded.tss.
+*/
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item .c-dropdown select,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-responsive .c-repeating-section-group .c-repeating-section-item .c-dropdown select
+{padding-top: 5px; padding-bottom: 5px;}
+
+.cognito .c-table-section:not(.c-responsive) .c-field,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-field,
+.cognito .c-forms-form .c-table-section[class*="c-readonly"]:not(.c-responsive) .c-repeating-section-group.c-table-body .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito.c-med > :not([id="c-forms-publish"]) .c-forms-form .c-table-section[class*="c-readonly"].c-responsive .c-repeating-section-group.c-table-body .c-repeating-section-item>*:not(:first-child) .c-editor,
+.cognito.c-lrg > :not([id="c-forms-publish"]) .c-forms-form .c-table-section[class*="c-readonly"].c-responsive .c-repeating-section-group.c-table-body .c-repeating-section-item>*:not(:first-child) .c-editor
+{border:none!important;}
+
+.cognito .c-forms-form .c-table-section:not(.c-responsive) .c-repeating-section-group .c-repeating-section-item>* .c-editor .c-content,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-readonly.c-responsive .c-repeating-section-group .c-repeating-section-item [class*=c-calculation-] .c-editor
+{ padding-left: 3px; padding-right: 3px;}
+
+/* Read Only Styles */
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-section.c-readonly.c-responsive .c-repeating-section-group.c-table-body .c-repeating-section-item>*:not(:first-child)
+.cognito .c-table-section:not(.c-responsive) .c-table-body [class*="c-readonly"] .c-editor[class*="c-readonly"],
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-body [class*="c-calculation"] .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-body [class*="c-readonly"] .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-table-body [class*="c-readonly"] .c-editor[class*="c-readonly"] {
+	background-color: rgba(0,0,0,0.18) !important;
+}
+
+
+.cognito .c-section[class*="c-readonly"] .c-table-section:not(.c-responsive):not([class*="c-readonly"]) .c-table-body .c-table-row:nth-child(even) .c-field .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-section[class*="c-readonly"] .c-table-section.c-responsive:not([class*="c-readonly"]) .c-table-body .c-table-row:nth-child(even) .c-field .c-editor{
+	border-color: rgba(0,0,0,0.1);  background-color: transparent !important;
+}
+
+.cognito .c-section[class*="c-readonly"] .c-table-section:not(.c-responsive):not([class*="c-readonly"]) .c-table-body .c-table-row:nth-child(odd) .c-field .c-editor,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-section[class*="c-readonly"] .c-table-section.c-responsive:not([class*="c-readonly"]) .c-table-body .c-table-row:nth-child(odd) .c-field .c-editor{
+	border-color: rgba(0,0,0,0.1);  background-color: rgba(0,0,0,0.1) !important;
+}
+
+.cognito .c-section[class*="c-readonly"] .c-table-section:not(.c-responsive):not([class*="c-readonly"]) .c-field,
+.cognito:not(.c-sml) > :not([id="c-forms-publish"]) .c-section[class*="c-readonly"] .c-table-section.c-responsive:not([class*="c-readonly"]) .c-field {
+	background: transparent !important;
+}
+
+/* Table Summary spacing */
+.cognito .c-table-section:not(.c-responsive) .c-table-section.c-readonly .c-table-body .c-editor,
+.cognito .c-table-section:not(.c-responsive) [class*="c-readonly"].c-section .c-table-body .c-editor,
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) .c-table-section.c-readonly .c-table-body .c-editor,
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) [class*="c-readonly"].c-section .c-table-body .c-editor{padding: 8px !important;}
+
+.c-table-footer .c-editor span{ padding-top: 8px; padding-bottom: 8px; }
+.c-table-footer .c-editor span:first-child{ padding-left: 8px; }
+.c-table-footer .c-editor span:last-child{ padding-right: 8px; }
+[class*="c-readonly"] .c-table-footer .c-editor span:last-child{ padding: calc(8px - 5px); }
+
+/* Transparent signatures */
+.cognito .c-signature .c-signature-container,
+.cognito .c-signature-present img,
+.cognito [class*=c-readonly].c-signature .c-editor > div,
+.cognito .c-section[class*=c-readonly]:not(.c-forms-details-scroll) .c-field.c-signature .c-editor > div {
+	background-color: transparent !important;
+}
+
+.cognito .c-table-section:not(.c-responsive),
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) .c-table-section.c-responsive {
+	border-spacing: 1px;
+}
+
+.cognito [class*="c-readonly"] .c-table-section:not(.c-responsive),
+.cognito:not(.c-sml)>:not([id="c-forms-publish"]) [class*="c-readonly"] .c-table-section.c-responsive {
+	border-spacing: 0;
+}
+
+/* Spinner */
+.cognito .c-forms-form .c-number-spinner button { border-width: 0 !important; border-color: rgba(0,0,0,0.18) !important; background: rgba(0,0,0,0.1) !important; }
+.cognito .c-forms-form .c-number-spinner button:first-child { border-right-width: 1px !important; }
+.cognito .c-forms-form .c-number-spinner button:last-child { border-left-width: 1px !important; }
+.cognito .c-forms-form .c-number-spinner button:hover { background: rgba(0,0,0,0.1) !important; }
+.cognito .c-forms-form .c-number-spinner button { border-radius: 6px;}
+
+.c-table-row .c-visible-container {
+	border: 0 !important;
+}</style>
+<form novalidate="" lang="en"><div class="c-forms-form" tabindex="0"><div class="c-editor" style="display:none;"><input type="text" class="c-forms-form-style" wfd-id="161"></div><div class="c-forms-form-body toggle-on" sys:attach="toggle" toggle:on="{ binding displayConfirmation, source = {{ Cognito.Forms.model }} }" toggle:action="hide"><div class="c-forms-heading"><div class="c-forms-logo"><img style="max-width: 100%;" src="https://www.cognitoforms.com/file/fkfUhtGA5GmYZw3Kj6XygzJu5XfkHQbLxWO96zqLHvJJvxZDlHCLWJR4yGi-z_08"></div><div class="c-forms-form-title"><h2>Sample Request</h2></div></div><div class="c-forms-template" sys:attach="dataview" dataview:data="{binding entry, source={{ Cognito.Forms.model }} }"><div class="c-forms-form-main c-span-24 c-sml-span-12"><fieldset class="c-name c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="Name2"><legend class="c-label ">Name <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></legend><div><div class="c-editor c-span-1" style="width: 50%; float: left;"><input type="text" id="c-0-248" autocomplete="given-name" placeholder="First" title="First" wfd-id="160"></div><div class="c-editor c-span-1" style="width: 50%; float: left;"><input type="text" id="c-1-248" autocomplete="family-name" placeholder="Last" title="Last" wfd-id="159"></div></div><div class="c-validation" aria-hidden="true"></div></fieldset><div class="c-text-singleline c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="CompanyName"><div class="c-label  "><label id="c-3-247-label" for="c-3-247">Company Name <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor"><input type="text" id="c-3-247" placeholder="" wfd-id="158"></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-phone c-phone-international c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12  c-required" data-field="Phone"><div class="c-label  "><label id="c-4-246-label" for="c-4-246">Phone <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span>Phone is required.</span></span></label></div><div class="c-editor c-editor-phone"><input type="text" id="c-4-246" placeholder="" autocomplete="tel" novalidate="" wfd-id="157"></div><div class="c-validation" aria-hidden="true">Phone is required.</div></div><div class="c-email c-field  c-col-13 c-sml-col-1 c-span-12 c-sml-span-12  c-required" data-field="Email"><div class="c-label  "><label id="c-5-245-label" for="c-5-245">Email <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span>Email is required.</span></span></label></div><div class="c-editor c-editor-email"><input type="text" id="c-5-245" placeholder="" autocomplete="email" novalidate="" wfd-id="156"></div><div class="c-validation" aria-hidden="true">Email is required.</div></div><fieldset class="c-address c-address-international c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12  c-required" data-field="Address"><legend class="c-label ">Address <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span>Address Line 1, City, State, Postal / Zip Code and Country are required.</span></span></legend><div><div class="c-editor" style="float: left;"><input type="text" id="c-6-6" title="Address Line 1" placeholder="Address Line 1" autocomplete="address-line1" wfd-id="155"></div><div class="c-editor" style="float: left;"><input type="text" id="c-7-6" title="Address Line 2" placeholder="Address Line 2" autocomplete="address-line2" wfd-id="154"></div><div class="c-editor c-partial-line" style="float: left;"><input type="text" id="c-8-6" title="City" placeholder="City" autocomplete="address-level2" wfd-id="153"></div><div class="c-editor c-partial-line" style="float: left;"><input type="text" id="c-9-6" title="State / Province / Region" placeholder="State / Province / Region" autocomplete="address-level1" wfd-id="152"></div><div class="c-editor c-partial-line" style="float: left;"><input type="text" id="c-10-6" title="Postal / Zip Code" placeholder="Postal / Zip Code" autocomplete="postal-code" wfd-id="151"></div><div class="c-editor c-partial-line c-placeholder-text-styled toggle-on" style="float: left;"><div class="c-dropdown"><select id="c-11-6" class="" title="Country" autocomplete="country" wfd-id="167"><option value="">Country</option><option value="Afghanistan">Afghanistan</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo, Republic of(Brazzaville)">Congo, Republic of(Brazzaville)</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Democratic Republic of the Congo (Kinshasa)">Democratic Republic of the Congo (Kinshasa)</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="East Timor (Timor-Leste)">East Timor (Timor-Leste)</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands">Falkland Islands</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Great Britain">Great Britain</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Holy See">Holy See</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran (Islamic Republic of)">Iran (Islamic Republic of)</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Ivory Coast">Ivory Coast</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea, Democratic People's Rep. (North Korea)">Korea, Democratic People's Rep. (North Korea)</option><option value="Korea, Republic of (South Korea)">Korea, Republic of (South Korea)</option><option value="Kosovo">Kosovo</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Lao, People's Democratic Republic">Lao, People's Democratic Republic</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macau">Macau</option><option value="Macedonia, Rep. of">Macedonia, Rep. of</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia, Federal States of">Micronesia, Federal States of</option><option value="Moldova, Republic of">Moldova, Republic of</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar, Burma">Myanmar, Burma</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Palestinian territories">Palestinian territories</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn Island">Pitcairn Island</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion Island">Reunion Island</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia (Slovak Republic)">Slovakia (Slovak Republic)</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="South Sudan">South Sudan</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria, Syrian Arab Republic">Syria, Syrian Arab Republic</option><option value="Taiwan (Republic of China)">Taiwan (Republic of China)</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania; officially the United Republic of Tanzania">Tanzania; officially the United Republic of Tanzania</option><option value="Thailand">Thailand</option><option value="Tibet">Tibet</option><option value="Timor-Leste (East Timor)">Timor-Leste (East Timor)</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Islands">Turks and Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Vatican City State (Holy See)">Vatican City State (Holy See)</option><option value="Venezuela">Venezuela</option><option value="Vietnam">Vietnam</option><option value="Virgin Islands (British)">Virgin Islands (British)</option><option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option><option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select></div></div></div><div class="c-validation" aria-hidden="true">Address Line 1, City, State, Postal / Zip Code and Country are required.</div><div class="c-helptext c-html"><p><em>Please enter the address where you'd like the samples sent.</em></p></div></fieldset><div class="c-choice-dropdown c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12  c-required" data-field="WhatWouldYouLikeToKnowMoreAbout"><div class="c-label  "><label id="c-13-5-label" for="c-13-5">What would you like to know more about? <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span>What would you like to know more about? is required.</span></span></label></div><div class="c-editor"><div class="c-dropdown c-placeholder-text-styled toggle-on"><select id="c-13-5" wfd-id="166"><option></option><option value="Cocoa">Cocoa</option><option value="Fats &amp; Oils">Fats &amp; Oils</option><option value="Emulsifiers / Stabalizers">Emulsifiers / Stabalizers</option><option value="Flavours">Flavours</option><option value="Dairy">Dairy</option><option value="Eggs">Eggs</option></select></div></div><div class="c-validation" aria-hidden="true">What would you like to know more about? is required.</div></div><div class="c-choice-dropdown c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12  c-required" data-field="AnualConsumptionMetricTon"><div class="c-label  "><label id="c-14-4-label" for="c-14-4">Anual Consumption metric ton <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span>Anual Consumption metric ton is required.</span></span></label></div><div class="c-editor"><div class="c-dropdown c-placeholder-text-styled toggle-on"><select id="c-14-4" wfd-id="165"><option></option><option value="0-10">0-10</option><option value="10-30">10-30</option><option value="30-60">30-60</option><option value="60-100">60-100</option><option value="100+">100+</option></select></div></div><div class="c-validation" aria-hidden="true">Anual Consumption metric ton is required.</div></div><div class="c-text-multiplelines c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="CommentsOrQuestions"><div class="c-label  "><label id="c-15-3-label" for="c-15-3">Comments or Questions? <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor"><textarea id="c-15-3" placeholder="" wfd-id="168"></textarea></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="YourProductSpecificationSheets"><div class="c-label  "><label id="c-16-2-label" for="c-16-2">Your Product Specification Sheet(s) <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="10" data-max-file-size="100"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-16" wfd-id="172">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true" wfd-id="150"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>Please upload your product specification sheet so we can better match your request.</em></p></div></div></div></div><div id="c-recaptcha-div"></div><div class="c-forms-error"><div aria-hidden="true" class="c-validation"></div></div><div class="c-button-section"><div class="c-action"><button type="submit" class="c-button" id="c-submit-button" wfd-id="171">Submit</button></div></div></div><div class="c-forms-confirmation toggle-off" sys:attach="toggle" toggle:on="{binding displayConfirmation, source={{ Cognito.Forms.model }} }" toggle:action="render" style="display: none;"></div></div><input type="hidden" name="NoBots" id="c-nobots" value="NY1bn97vERPInkL6pRvWe/2z0xlP8L/oEJuXEAoGvWNAmge0qVywqxrvjJSZz0Ffi1uKF91cOFBlGLeaU8r4hg==|d72b47bde5a33f170826c63db09abf33" wfd-id="185"></form>
+<div style="display:block!important;text-align:center!important;padding:2px!important;max-width:800px!important;opacity:1!important;" class="rNTdfWNjxU2NQgpknQuPVg" sys:attach="dataview" dataview:data="{binding entry, source={{ Cognito.Forms.model }} }"><a style="font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important; font-size: 12px !important; font-weight: bold !important; opacity: 1 !important; display: inline !important; text-decoration: none !important; color: rgb(68, 68, 68) !important;" href="https://www.cognitoforms.com//?crs=cmVmcHVibGljOjpKYWZmYW4x" target="_blank"><img style="vertical-align: middle; margin-right: 5px; border: none !important; width: auto !important; display: inline-block !important;" src="https://www.cognitoforms.com/Content/Images/cogicon.png" border="0" alt="Cognito Forms">Powered by Cognito Forms.</a></div>
+
+</div>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal" wfd-id="170"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chatra {literal} -->
+    <script>
+        (function(d, w, c) {
+            w.ChatraID = 'YK8B63NBRtCouiezd';
+            var s = d.createElement('script');
+            w[c] = w[c] || function() {
+                (w[c].q = w[c].q || []).push(arguments);
+            };
+            s.async = true;
+            s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
+            + '//call.chatra.io/chatra.js';
+            if (d.head) d.head.appendChild(s);
+        })(document, window, 'Chatra');
+    </script>
+    <!-- /Chatra {/literal} -->
+
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/2622265.js"></script>
+    <!-- End of HubSpot Embed Code -->
+
+    <!-- jQuery -->
+    <script src="jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/agency.min.js"></script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22263038-1', 'auto');
+  ga('send', 'pageview');
+
+    </script>
+
+
+
+
+<div class="chatra--safari chatra--webkit chatra--side-bottom chatra--pos-right chatra--style-tab chatra--visible" id="chatra" data-turbolinks-permanent="" style="width: 126px; height: 40px; transform: none; z-index: 9999;" wfd-id="1"><div id="chatra__iframe-wrapper" wfd-id="184"><iframe frameborder="0" id="chatra__iframe" allowtransparency="true" title="Chatra live chat" allow="autoplay" src="https://chat.chatra.io/#hostId=YK8B63NBRtCouiezd&amp;mode=widget&amp;clientId=ZjnN3orRHQ7X5Ax4jUQNgBmsSZhuCkol07nVwzNz&amp;lang=en&amp;currentPage=https%3A%2F%2Fwww.jaffan.com%2F&amp;currentPageTitle=Jaffan%20Trading%20%26%20Marketing&amp;prevPage=https%3A%2F%2Fwww.google.com&amp;referrer=https%3A%2F%2Fwww.google.com" style="width: 380px; height: 600px; position: absolute;"></iframe></div></div><div id="d_a_bsin" wfd-id="0" style="color: initial; color-scheme: initial; font-family: initial; font-feature-settings: initial; font-optical-sizing: initial; font-size: initial; font-stretch: initial; font-style: initial; font-synthesis: initial; font-variant-alternates: initial; font-variant-caps: initial; font-variant-east-asian: initial; font-variant-ligatures: initial; font-variant-numeric: initial; font-variant-position: initial; font-variation-settings: initial; font-weight: initial; text-orientation: initial; text-rendering: initial; writing-mode: initial; -webkit-font-kerning: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-text-size-adjust: initial; -webkit-text-zoom: initial; border-collapse: initial; caption-side: initial; caret-color: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; cursor: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; glyph-orientation-horizontal: initial; glyph-orientation-vertical: initial; hanging-punctuation: initial; image-orientation: initial; image-rendering: initial; kerning: initial; letter-spacing: initial; line-break: initial; line-height: initial; list-style: initial; marker-end: initial; marker-mid: initial; marker-start: initial; orphans: initial; pointer-events: initial; quotes: initial; resize: initial; shape-rendering: initial; speak-as: initial; stroke: initial; stroke-color: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; text-align: initial; text-anchor: initial; text-decoration-skip: initial; text-decoration-thickness: initial; text-indent: initial; text-shadow: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; visibility: initial; white-space: initial; widows: initial; word-break: initial; word-spacing: initial; word-wrap: initial; -apple-color-filter: initial; -apple-trailing-word: initial; -internal-text-autosizing-status: initial; -webkit-aspect-ratio: initial; border-spacing: initial; -webkit-box-direction: initial; -webkit-cursor-visibility: initial; -webkit-hyphenate-character: initial; -webkit-hyphenate-limit-after: initial; -webkit-hyphenate-limit-before: initial; -webkit-hyphenate-limit-lines: initial; -webkit-hyphens: initial; -webkit-line-align: initial; -webkit-line-box-contain: initial; -webkit-line-grid: initial; -webkit-line-snap: initial; -webkit-nbsp-mode: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis-color: initial; -webkit-text-emphasis-position: initial; -webkit-text-emphasis-style: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke-color: initial; -webkit-text-stroke-width: initial; -webkit-user-modify: initial; -webkit-user-select: initial; background-position: initial initial; background-repeat: initial initial;"><style type="text/css">@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Light.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Light.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Light.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Light.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Light.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Light.svg#svgFontName) format("svg");font-weight:100;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-LightItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-LightItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-LightItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-LightItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-LightItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-LightItalic.svg#svgFontName) format("svg");font-weight:100;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Regular.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Regular.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Regular.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Regular.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Regular.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Regular.svg#svgFontName) format("svg");font-weight:200;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Italic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Italic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Italic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Italic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Italic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Italic.svg#svgFontName) format("svg");font-weight:200;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Book.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Book.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Book.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Book.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Book.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Book.svg#svgFontName) format("svg");font-weight:300;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BookItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BookItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BookItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BookItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BookItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BookItalic.svg#svgFontName) format("svg");font-weight:300;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Medium.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Medium.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Medium.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Medium.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Medium.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Medium.svg#svgFontName) format("svg");font-weight:400;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-MediumItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-MediumItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-MediumItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-MediumItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-MediumItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-MediumItalic.svg#svgFontName) format("svg");font-weight:400;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBold.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBold.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBold.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBold.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBold.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBold.svg#svgFontName) format("svg");font-weight:500;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBoldItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBoldItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBoldItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBoldItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBoldItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-SemiBoldItalic.svg#svgFontName) format("svg");font-weight:500;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Bold.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Bold.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Bold.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Bold.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Bold.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Bold.svg#svgFontName) format("svg");font-weight:600;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BoldItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BoldItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BoldItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BoldItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BoldItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-BoldItalic.svg#svgFontName) format("svg");font-weight:600;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBold.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBold.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBold.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBold.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBold.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBold.svg#svgFontName) format("svg");font-weight:700;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBoldItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBoldItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBoldItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBoldItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBoldItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-ExtraBoldItalic.svg#svgFontName) format("svg");font-weight:700;font-style:italic}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Heavy.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Heavy.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Heavy.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Heavy.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Heavy.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-Heavy.svg#svgFontName) format("svg");font-weight:800;font-style:normal}@font-face{font-family:CerebriSans;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-HeavyItalic.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-HeavyItalic.eot?#iefix) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-HeavyItalic.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-HeavyItalic.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-HeavyItalic.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/CerebriSans/CerebriSans-HeavyItalic.svg#svgFontName) format("svg");font-weight:800;font-style:italic}@font-face{font-family:FontAwesome;src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/fontawesome-webfont.eot);src:url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0) format("embedded-opentype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/fontawesome-webfont.woff2) format("woff2"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/fontawesome-webfont.woff) format("woff"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/fontawesome-webfont.ttf) format("truetype"),url(safari-extension://C3D90941-A8A0-4BA3-8E0D-C1C9C1932E2E/d10b3455/fonts/fontawesome-webfont.svg#fontawesomeregular) format("svg");font-weight:400;font-style:normal}</style><style type="text/css">#__wikibuy__ .__wikibuy.__onTop,#earny-root,#honeyContainer,#piggyWrapper,body~div:not(#gdx-bubble-host){position:absolute!important;z-index:100000!important}body[data-shop-url="https://www.honeybum.com"] header>.header{z-index:99999}.mm-slideout{z-index:auto}.sorry-for-this__empty-styles{position:relative;z-index:1}</style><div style="color: initial; color-scheme: initial; font-family: initial; font-feature-settings: initial; font-optical-sizing: initial; font-size: initial; font-stretch: initial; font-style: initial; font-synthesis: initial; font-variant-alternates: initial; font-variant-caps: initial; font-variant-east-asian: initial; font-variant-ligatures: initial; font-variant-numeric: initial; font-variant-position: initial; font-variation-settings: initial; font-weight: initial; text-orientation: initial; text-rendering: initial; writing-mode: initial; -webkit-font-kerning: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-text-size-adjust: initial; -webkit-text-zoom: initial; border-collapse: initial; caption-side: initial; caret-color: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; cursor: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; glyph-orientation-horizontal: initial; glyph-orientation-vertical: initial; hanging-punctuation: initial; image-orientation: initial; image-rendering: initial; kerning: initial; letter-spacing: initial; line-break: initial; line-height: initial; list-style: initial; marker-end: initial; marker-mid: initial; marker-start: initial; orphans: initial; pointer-events: initial; quotes: initial; resize: initial; shape-rendering: initial; speak-as: initial; stroke: initial; stroke-color: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; text-align: initial; text-anchor: initial; text-decoration-skip: initial; text-decoration-thickness: initial; text-indent: initial; text-shadow: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; visibility: initial; white-space: initial; widows: initial; word-break: initial; word-spacing: initial; word-wrap: initial; -apple-color-filter: initial; -apple-trailing-word: initial; -internal-text-autosizing-status: initial; -webkit-aspect-ratio: initial; border-spacing: initial; -webkit-box-direction: initial; -webkit-cursor-visibility: initial; -webkit-hyphenate-character: initial; -webkit-hyphenate-limit-after: initial; -webkit-hyphenate-limit-before: initial; -webkit-hyphenate-limit-lines: initial; -webkit-hyphens: initial; -webkit-line-align: initial; -webkit-line-box-contain: initial; -webkit-line-grid: initial; -webkit-line-snap: initial; -webkit-nbsp-mode: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis-color: initial; -webkit-text-emphasis-position: initial; -webkit-text-emphasis-style: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke-color: initial; -webkit-text-stroke-width: initial; -webkit-user-modify: initial; -webkit-user-select: initial; background-position: initial initial; background-repeat: initial initial;"></div></div></body></html>
